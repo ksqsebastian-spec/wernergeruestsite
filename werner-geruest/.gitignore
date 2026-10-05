@@ -1,0 +1,9 @@
+dist/
+node_modules/
+.wrangler/
+.env*
+research/source/
+research/pages.json
+research/images.json
+research/home-state.json
+__pycache__/

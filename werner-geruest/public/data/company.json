@@ -1,0 +1,212 @@
+{
+  "services": [
+    {
+      "image": "/assets/images/3ecbdaa9825d.webp",
+      "title": "Fassaden- & Arbeitsgerüste",
+      "text": "Unser Kerngeschäft: standsichere Blitz- und Allroundgerüste für Sanierung, Neubau, Maler-, Dachdecker- und Klempnerarbeiten — exakt auf die Fassade und die geplanten Gewerke abgestimmt.",
+      "tags": "Blitzgerüste 70/100 · Allroundgerüste · Rollgerüste"
+    },
+    {
+      "image": "/assets/images/79b8687c9012.webp",
+      "title": "Wetterschutzdächer",
+      "text": "Witterungsunabhängiges Arbeiten und Schutz für Dachstuhl und Rohbau — auch über Kirchen und großen Spannweiten.",
+      "tags": "Keder-Systemdächer · Einhausungen"
+    },
+    {
+      "image": "/assets/images/51fa2405b1d2.webp",
+      "title": "Hänge- & Sonderkonstruktionen",
+      "text": "Freitragende und hängende Gerüste, Überbrückungen und Sonderlösungen, wo der Aufbau vom Boden nicht möglich ist.",
+      "tags": "Hängegerüste · Überbrückungen"
+    },
+    {
+      "image": "/assets/images/b0309c782dbb.webp",
+      "title": "Dachfanggerüste",
+      "text": "Vorschriftsgerechte Absturzsicherung für Dacharbeiten — schnell gestellt, sicher abgenommen.",
+      "tags": "Fanggerüste · Absturzsicherung"
+    },
+    {
+      "image": "/assets/images/51610ab4266a.webp",
+      "title": "Raum- & Innengerüste",
+      "text": "Decken- und Raumgerüste für Kirchen, Hallen und Industrie — tragfähig und flexibel im Grundriss.",
+      "tags": "Raumgerüste · Traggerüste"
+    },
+    {
+      "image": "/assets/images/57006be6a06b.webp",
+      "title": "Bauaufzüge",
+      "text": "Personen- und Lastenaufzüge für effizienten Materialfluss auf der Baustelle.",
+      "tags": "200–2.000 kg · Personen & Lasten"
+    },
+    {
+      "image": "/assets/images/6ded38a7cfe3.webp",
+      "title": "Treppentürme",
+      "text": "Sichere Zugänge und Fluchtwege — Podesttreppen und Fluchttreppentürme für Baustelle und Veranstaltung.",
+      "tags": "Podesttreppen · Fluchttürme bis 750 kg"
+    },
+    {
+      "image": "/assets/images/1306af14bd93.webp",
+      "title": "Fahrgerüste",
+      "text": "Bewegliche Arbeitsgerüste auf Rollen — innen wie außen flexibel einsetzbar, auch als fahrbares Hängegerüst über die Dachkante hinaus.",
+      "tags": "Rollgerüste · Innen & Außen"
+    },
+    {
+      "image": "/assets/images/cd6276cf9535.webp",
+      "title": "Kabelbrücken",
+      "text": "Überspannen Straßen und Gleise oder führen Kabel und Installationen sicher über die Baustelle hinweg.",
+      "tags": "Straßen & Gleise · Installationen"
+    }
+  ],
+  "extras": [
+    {
+      "image": "/assets/images/4069fa477cc0.webp",
+      "icon": "fence",
+      "title": "Baustellensicherung & Bauzäune",
+      "text": "Absperrungen, Bauzäune und Baustelleneinrichtung für einen sicheren Ablauf."
+    },
+    {
+      "image": "/assets/images/289d025d754e.webp",
+      "icon": "sign",
+      "title": "Halteverbotszonen",
+      "text": "Beantragung und Einrichtung von Halteverbotszonen für Auf- und Abbau."
+    },
+    {
+      "image": "/assets/images/62d601d54d5c.webp",
+      "icon": "shield",
+      "title": "Absturzsicherung",
+      "text": "Seitenschutz, Fangnetze und Dachfanggerüste nach geltenden Vorschriften."
+    },
+    {
+      "image": "/assets/images/eb1e367dfa04.webp",
+      "icon": "bridge",
+      "title": "Überbrückungen & Durchgänge",
+      "text": "Geschützte Fußgänger-Durchgänge und Überbrückungen an der Baustelle."
+    },
+    {
+      "image": "/assets/images/33f593b22200.webp",
+      "icon": "net",
+      "title": "Planen & Netze",
+      "text": "Keder-, Staubschutz- und Sandstrahlnetze sowie schwer entflammbare Planen."
+    },
+    {
+      "image": "/assets/images/122be6b7de24.webp",
+      "icon": "banner",
+      "title": "Gerüstwerbung",
+      "text": "Großformatige Werbeplanen am Gerüst — Aufmerksamkeit während der Bauzeit."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Anfrage & Besichtigung",
+      "text": "Online oder telefonisch — wir sichten Ihr Objekt, prüfen Pläne und klären den Bedarf."
+    },
+    {
+      "title": "Kurzfristiges Angebot",
+      "text": "Transparente Kalkulation mit nachvollziehbaren Positionen und realistischem Terminplan."
+    },
+    {
+      "title": "Planung & Genehmigung",
+      "text": "Statik, Halteverbotszonen und Genehmigungen für öffentlichen Grund übernehmen wir."
+    },
+    {
+      "title": "Montage & Abnahme",
+      "text": "Termingerechter Aufbau durch eigene Fachkräfte — geprüft, dokumentiert, freigegeben."
+    },
+    {
+      "title": "Standzeit & Demontage",
+      "text": "Umbauten bei Bedarf, laufende Prüfung und Abbau direkt nach Projektende."
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Gerüstbauer (m/w/d)",
+      "text": "Mit abgeschlossener Ausbildung oder mehrjähriger Erfahrung. Du montierst eigenständig und denkst an die Sicherheit Deiner Kollegen.",
+      "badge": "Vollzeit · Hamburg"
+    },
+    {
+      "title": "Gerüstbau-Monteur / Helfer (m/w/d)",
+      "text": "Quereinsteiger willkommen: Wenn Du anpacken kannst und höhentauglich bist, lernst Du bei uns den Rest.",
+      "badge": "Vollzeit · Hamburg"
+    },
+    {
+      "title": "Kolonnenführer (m/w/d)",
+      "text": "Du führst Deine Kolonne eigenverantwortlich über die Baustelle: Einteilung, Materialdisposition und Abnahme — mit einem Team, das sich auf Dich verlassen kann.",
+      "badge": "Vollzeit · Hamburg"
+    }
+  ],
+  "benefits": [
+    {
+      "text": "Motiviertes Team, das sich gegenseitig unterstützt"
+    },
+    {
+      "text": "Arbeiten in und um Hamburg — abends zu Hause"
+    },
+    {
+      "text": "Hochwertige Arbeitsausstattung & PSA"
+    },
+    {
+      "text": "Übertarifliche Bezahlung"
+    },
+    {
+      "text": "Klare Strukturen und Arbeitsaufträge"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Muss ich gelernter Gerüstbauer sein?",
+      "answer": "Nein. Erfahrung am Bau hilft, ist aber kein Muss. Quereinsteiger arbeiten wir im Team ein, bis du sicher auf dem Gerüst stehst."
+    },
+    {
+      "question": "Wie läuft die Bewerbung ab?",
+      "answer": "Ganz unkompliziert: Schnellbewerbung in zwei Minuten ausfüllen und Deinen Lebenslauf anhängen — ein Anschreiben brauchst Du nicht. Wir melden uns kurzfristig bei dir und lernen uns persönlich kennen."
+    },
+    {
+      "question": "Was verdiene ich bei euch?",
+      "answer": "Wir zahlen übertariflich und pünktlich. Über die genaue Höhe sprechen wir im persönlichen Gespräch, abhängig von deiner Erfahrung und Qualifikation."
+    },
+    {
+      "question": "Brauche ich einen Führerschein?",
+      "answer": "Ein Führerschein der Klasse B ist von Vorteil, aber keine Grundvoraussetzung. Sprich uns einfach darauf an."
+    },
+    {
+      "question": "Wo bin ich im Einsatz?",
+      "answer": "Unsere Baustellen liegen in Hamburg und im Umland. Das heißt kurze Wege und Feierabend zu Hause statt wochenlanger Montage."
+    },
+    {
+      "question": "Welche Ausstattung bekomme ich?",
+      "answer": "Hochwertige Arbeitskleidung, ordentliches Werkzeug und moderne Sicherheitsausrüstung stellen wir dir."
+    }
+  ],
+  "impressum": [
+    {
+      "title": "Angaben gemäß § 5 TMG",
+      "text": "J. WERNER GERÜSTBAU GmbH & Co. KG\nWerner-Siemens-Straße 105\n22113 Hamburg\n\nHandelsregister: HRA 74317\nRegistergericht: Amtsgericht Hamburg\n\nVertreten durch die persönlich haftende Gesellschafterin:\nGruppenwerk Projektentwicklung GmbH\nHeselstücken 10\n22453 Hamburg\nAmtsgericht Hamburg HRB 92461\n\nGeschäftsführer: Reno Maack, Steve Mutz, Axel Seehafer"
+    },
+    {
+      "title": "Kontakt",
+      "text": "Telefon: +49 (0) 40 732 10 91\nTelefax: +49 (0) 40 732 76 21\nE-Mail: info@j-werner-geruestbau.de"
+    },
+    {
+      "title": "Umsatzsteuer-ID",
+      "text": "Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz:\nDE118858780"
+    },
+    {
+      "title": "Berufshaftpflichtversicherung",
+      "text": "VHV Allgemeine Versicherung AG\nVHV-Platz 1\n30177 Hannover\n\nGeltungsraum der Versicherung: Deutschland"
+    },
+    {
+      "title": "Verbraucherstreitbeilegung",
+      "text": "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
+    },
+    {
+      "title": "Haftung für Inhalte",
+      "text": "Als Diensteanbieter sind wir gemäß § 7 Abs. 1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.\n\nVerpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen."
+    },
+    {
+      "title": "Haftung für Links",
+      "text": "Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.\n\nEine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen."
+    },
+    {
+      "title": "Urheberrecht",
+      "text": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.\n\nSoweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen."
+    }
+  ]
+}

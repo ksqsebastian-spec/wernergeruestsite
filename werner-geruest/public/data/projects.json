@@ -1,0 +1,212 @@
+[
+  {
+    "id": "wincklerstrasse",
+    "title": "Wincklerstraße",
+    "location": "Hamburg-Neustadt",
+    "task": "Fassadensanierung am Michel · Arbeits- und Schutzgerüst mit Netzverkleidung",
+    "planning": "Hamburg-Neustadt",
+    "category": "facades",
+    "categoryLabel": "Fassaden",
+    "cover": {
+      "url": "https://onecdn.io/media/fd423ac6-f11e-4d58-a4ec-028c81c0ef0e/full",
+      "path": "/assets/images/a73b5c5d7270.webp",
+      "thumb": "/assets/images/a73b5c5d7270-thumb.webp",
+      "width": 2400,
+      "height": 1610
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/fd423ac6-f11e-4d58-a4ec-028c81c0ef0e/full",
+        "path": "/assets/images/a73b5c5d7270.webp",
+        "thumb": "/assets/images/a73b5c5d7270-thumb.webp",
+        "width": 2400,
+        "height": 1610
+      },
+      {
+        "url": "https://onecdn.io/media/a984657e-feeb-4d25-b2b2-eed757f65dc6/full",
+        "path": "/assets/images/600ab0803864.webp",
+        "thumb": "/assets/images/600ab0803864-thumb.webp",
+        "width": 1264,
+        "height": 848
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/referenzen",
+    "categories": [
+      "facades"
+    ]
+  },
+  {
+    "id": "berliner-tor",
+    "title": "Berliner Tor 9",
+    "location": "Hamburg-St. Georg",
+    "task": "Arbeits- und Schutzgerüst · 2.000 m². Bauaufzug und verfahrbares Wetterschutzdach.",
+    "planning": "Hamburg-St. Georg",
+    "category": "facades",
+    "categoryLabel": "Fassaden",
+    "cover": {
+      "url": "https://onecdn.io/media/b00665b0-2f0a-44f2-9aa8-3a7ae29d9867/full",
+      "path": "/assets/images/ed34b54d23e6.webp",
+      "thumb": "/assets/images/ed34b54d23e6-thumb.webp",
+      "width": 1440,
+      "height": 1920
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/b00665b0-2f0a-44f2-9aa8-3a7ae29d9867/full",
+        "path": "/assets/images/ed34b54d23e6.webp",
+        "thumb": "/assets/images/ed34b54d23e6-thumb.webp",
+        "width": 1440,
+        "height": 1920
+      },
+      {
+        "url": "https://onecdn.io/media/d2bee5fa-62ee-460f-970b-bb326412f38e/full",
+        "path": "/assets/images/547e2ce9d12c.webp",
+        "thumb": "/assets/images/547e2ce9d12c-thumb.webp",
+        "width": 1440,
+        "height": 1920
+      },
+      {
+        "url": "https://onecdn.io/media/c8b1995a-f0e4-4c21-a82f-86c875e7f327/full",
+        "path": "/assets/images/f76a0dcc6a22.webp",
+        "thumb": "/assets/images/f76a0dcc6a22-thumb.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "url": "https://onecdn.io/media/4fa4b9f1-f7ac-40da-b435-eb58d93285d8/full",
+        "path": "/assets/images/79b8687c9012.webp",
+        "thumb": "/assets/images/79b8687c9012-thumb.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/referenzen",
+    "categories": [
+      "facades",
+      "weather"
+    ]
+  },
+  {
+    "id": "adolfstrasse",
+    "title": "Adolfstraße 14–16",
+    "location": "Ahrensburg",
+    "task": "Arbeits- und Schutzgerüst · 3.000 m². Neubau inklusive Dachfangerüst.",
+    "planning": "Ahrensburg",
+    "category": "weather",
+    "categoryLabel": "Dach & Wetterschutz",
+    "cover": {
+      "url": "https://onecdn.io/media/e1abbc54-f92d-4f1c-ac07-913d12961233/full",
+      "path": "/assets/images/b0309c782dbb.webp",
+      "thumb": "/assets/images/b0309c782dbb-thumb.webp",
+      "width": 1920,
+      "height": 1440
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/e1abbc54-f92d-4f1c-ac07-913d12961233/full",
+        "path": "/assets/images/b0309c782dbb.webp",
+        "thumb": "/assets/images/b0309c782dbb-thumb.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/referenzen",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "id": "rupertistrasse",
+    "title": "Rupertistraße 4, 6, 8 & 3, 5, 7",
+    "location": "Hamburg-Altona",
+    "task": "Gesamtgerüstfläche · 2.650 m². Aufstockung inklusive Dachfangerüst.",
+    "planning": "Hamburg-Altona",
+    "category": "facades",
+    "categoryLabel": "Fassaden",
+    "cover": {
+      "url": "https://onecdn.io/media/519bfbab-427c-4b04-b0fa-0dc4d501727f/full",
+      "path": "/assets/images/d322fdccb5ff.webp",
+      "thumb": "/assets/images/d322fdccb5ff-thumb.webp",
+      "width": 1440,
+      "height": 1920
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/519bfbab-427c-4b04-b0fa-0dc4d501727f/full",
+        "path": "/assets/images/d322fdccb5ff.webp",
+        "thumb": "/assets/images/d322fdccb5ff-thumb.webp",
+        "width": 1440,
+        "height": 1920
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/referenzen",
+    "categories": [
+      "facades"
+    ]
+  },
+  {
+    "id": "grindelallee",
+    "title": "Grindelallee 44",
+    "location": "Hamburg-Eimsbüttel",
+    "task": "Arbeits- und Schutzgerüst mit integriertem Fußgängertunnel.",
+    "planning": "Hamburg-Eimsbüttel",
+    "category": "facades",
+    "categoryLabel": "Fassaden",
+    "cover": {
+      "url": "https://onecdn.io/media/f532d8d0-5f53-4a94-b30e-4521c52d5095/full",
+      "path": "/assets/images/adee3a73f002.webp",
+      "thumb": "/assets/images/adee3a73f002-thumb.webp",
+      "width": 1440,
+      "height": 1920
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/f532d8d0-5f53-4a94-b30e-4521c52d5095/full",
+        "path": "/assets/images/adee3a73f002.webp",
+        "thumb": "/assets/images/adee3a73f002-thumb.webp",
+        "width": 1440,
+        "height": 1920
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/referenzen",
+    "categories": [
+      "facades"
+    ]
+  },
+  {
+    "id": "eurogate",
+    "title": "Containerterminal Eurogate",
+    "location": "Hamburg-Waltershof",
+    "task": "Hängegerüste und Sonderkonstruktionen an einer Verladebrücke.",
+    "planning": "Hamburg-Waltershof",
+    "category": "industry",
+    "categoryLabel": "Industrie & Sonderbau",
+    "cover": {
+      "url": "https://onecdn.io/media/fd0d74b4-11ab-49b0-8b88-64725df69c56/full",
+      "path": "/assets/images/3e063a7af280.webp",
+      "thumb": "/assets/images/3e063a7af280-thumb.webp",
+      "width": 2400,
+      "height": 1610
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/fd0d74b4-11ab-49b0-8b88-64725df69c56/full",
+        "path": "/assets/images/3e063a7af280.webp",
+        "thumb": "/assets/images/3e063a7af280-thumb.webp",
+        "width": 2400,
+        "height": 1610
+      },
+      {
+        "url": "https://onecdn.io/media/2accf558-5df6-4d76-84b3-5583b0802034/full",
+        "path": "/assets/images/b86b50f6b3f3.webp",
+        "thumb": "/assets/images/b86b50f6b3f3-thumb.webp",
+        "width": 2400,
+        "height": 1610
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/referenzen",
+    "categories": [
+      "industry"
+    ]
+  }
+]

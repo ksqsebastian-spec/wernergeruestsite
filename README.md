@@ -57,3 +57,7 @@ Alle lokalen Links, 48 Projektseiten, 381 Aufnahmen, 767 Live-Bilddateien und di
 Dieser Deploy bleibt als Vorschau `noindex`. Vor dem endgültigen Unternehmensstart: Bildrechte/Credits je Aufnahme, Aktualität der Stellen und Ansprechpartner sowie Datenschutz-/Hostingverträge und Unternehmensprozesse bestätigen. Diese Punkte sind in der Due Diligence konkret aufgeführt.
 
 Die Originalseite wird weder ersetzt noch verändert.
+
+## Weitere eigenständige Website im Repository
+
+[J. Werner Gerüstbau](werner-geruest/README.md): eigener Worker unter https://wernergeruesttest.ksqsebastian.workers.dev/, Originalfilm als vollflächiger Einstieg, Projektarchiv, Unternehmensdaten und Karriere. Lokal und Deployment aus dem Unterverzeichnis `werner-geruest/` starten.

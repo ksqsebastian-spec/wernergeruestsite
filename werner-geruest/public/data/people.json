@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Reno Maack",
+    "role": "Geschäftsführer",
+    "detail": "Vergabe, öffentliche Auftraggeber & Unternehmensführung",
+    "phone": "0171 316 12 54",
+    "email": "r.maack@j-werner-geruestbau.de",
+    "image": "/assets/images/f9a477ee5c84.webp"
+  },
+  {
+    "name": "Steve Mutz",
+    "role": "Geschäftsführer",
+    "detail": "Strategie, Kalkulation & Projektgeschäft",
+    "phone": "0173 575 54 87",
+    "email": "s.mutz@j-werner-geruestbau.de",
+    "image": "/assets/images/159c690d4ccd.webp"
+  },
+  {
+    "name": "Thomas Stoppel",
+    "role": "Projektleiter",
+    "detail": "Gewerbe & Projektgeschäft",
+    "phone": "0173 498 87 32",
+    "email": "t.stoppel@j-werner-geruestbau.de",
+    "image": "/assets/images/0dfff052a294.webp"
+  },
+  {
+    "name": "Kerim Hatip",
+    "role": "Assistenz der Bauleitung",
+    "detail": "Dokumentation, Termine & Qualitätsprüfung",
+    "phone": "0178 357 07 77",
+    "email": "k.hatip@j-werner-geruestbau.de",
+    "image": "/assets/images/56398addef08.webp"
+  },
+  {
+    "name": "Maximilian Radtke",
+    "role": "Assistenz der Bauleitung",
+    "detail": "Baustellenkoordination, Aufmaß & Dokumentation",
+    "phone": "040 732 10 91",
+    "email": "m.radtke@j-werner-geruestbau.de",
+    "image": "/assets/images/510d2ab0dba7.webp"
+  },
+  {
+    "name": "Swetlana Regier",
+    "role": "Teamassistentin",
+    "detail": "Kundenservice, Kommunikation & Auftragsorganisation",
+    "phone": "040 732 10 91",
+    "email": "s.regier@j-werner-geruestbau.de",
+    "image": "/assets/images/c2f091972c1f.webp"
+  },
+  {
+    "name": "Anne Hilton",
+    "role": "Teamassistentin",
+    "detail": "Prozessunterstützung, Organisation & Kundenkommunikation",
+    "phone": "040 732 10 91",
+    "email": "a.hilton@j-werner-geruestbau.de",
+    "image": "/assets/images/9829eca772a9.webp"
+  }
+]
