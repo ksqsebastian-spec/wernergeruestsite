@@ -1,0 +1,2 @@
+import {readFile,writeFile} from 'node:fs/promises';import{createHash}from'node:crypto';
+const keys=JSON.parse(await readFile('dist/asset-keys.json'));const manifest={};for(const key of keys){const bytes=await readFile('public'+key);manifest[key]={hash:createHash('sha256').update(bytes.toString('base64')+'.webp').digest('hex').slice(0,32),size:bytes.length};}await writeFile('dist/manifest.json',JSON.stringify(manifest));console.log(Object.keys(manifest).length+' assets');

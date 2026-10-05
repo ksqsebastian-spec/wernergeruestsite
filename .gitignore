@@ -1,0 +1,9 @@
+dist/
+node_modules/
+.wrangler/
+.env*
+research/source/
+research/pages.json
+research/images.json
+research/flyer.txt
+__pycache__/

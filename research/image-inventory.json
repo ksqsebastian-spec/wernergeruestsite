@@ -1,0 +1,4366 @@
+[
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/mehlig_logo.svg",
+    "path": "/assets/logo.svg",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609ab8b2a65fa.jpg",
+    "path": "/assets/images/0ba200b7c521.webp",
+    "thumb": "/assets/images/0ba200b7c521-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 391286
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609aba93a295b.jpg",
+    "path": "/assets/images/95192ac32446.webp",
+    "thumb": "/assets/images/95192ac32446-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 262014
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b1431b91fd.jpg",
+    "path": "/assets/images/897457af0be0.webp",
+    "thumb": "/assets/images/897457af0be0-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 68220
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b1465b1ed7.jpg",
+    "path": "/assets/images/a1743dd1f31b.webp",
+    "thumb": "/assets/images/a1743dd1f31b-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 88772
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b0f9305d27.jpg",
+    "path": "/assets/images/a2850ded4117.webp",
+    "thumb": "/assets/images/a2850ded4117-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 246648
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b0fbe22d1c.jpg",
+    "path": "/assets/images/c1bc8c7e2a29.webp",
+    "thumb": "/assets/images/c1bc8c7e2a29-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 187474
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b100898910.jpg",
+    "path": "/assets/images/8cf50fb31426.webp",
+    "thumb": "/assets/images/8cf50fb31426-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 91118
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b10413b0ae.jpg",
+    "path": "/assets/images/2a397dabf942.webp",
+    "thumb": "/assets/images/2a397dabf942-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 142380
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b107b8704d.jpg",
+    "path": "/assets/images/d9cec1e959ff.webp",
+    "thumb": "/assets/images/d9cec1e959ff-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 124666
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b10b2e8f9c.jpg",
+    "path": "/assets/images/7d5bcb597cd4.webp",
+    "thumb": "/assets/images/7d5bcb597cd4-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 245762
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b11e5dadfe.jpg",
+    "path": "/assets/images/2600ecdaf763.webp",
+    "thumb": "/assets/images/2600ecdaf763-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 138704
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624eaa93b4591.jpg",
+    "path": "/assets/images/207895a55169.webp",
+    "thumb": "/assets/images/207895a55169-thumb.webp",
+    "width": 690,
+    "height": 398,
+    "bytes": 55252
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618e624d65090.jpg",
+    "path": "/assets/images/4e6962c02a1f.webp",
+    "thumb": "/assets/images/4e6962c02a1f-thumb.webp",
+    "width": 690,
+    "height": 398,
+    "bytes": 57008
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618bf9b9bdf4c.jpg",
+    "path": "/assets/images/1e647a73c3ca.webp",
+    "thumb": "/assets/images/1e647a73c3ca-thumb.webp",
+    "width": 690,
+    "height": 398,
+    "bytes": 60314
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic619e29dbdcd9e.jpg",
+    "path": "/assets/images/6620de37b9d7.webp",
+    "thumb": "/assets/images/6620de37b9d7-thumb.webp",
+    "width": 690,
+    "height": 399,
+    "bytes": 72240
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic619e2a6974537.jpg",
+    "path": "/assets/images/38cdb802907b.webp",
+    "thumb": "/assets/images/38cdb802907b-thumb.webp",
+    "width": 690,
+    "height": 399,
+    "bytes": 50570
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic619e2ad0859dd.jpg",
+    "path": "/assets/images/d81dd728a08c.webp",
+    "thumb": "/assets/images/d81dd728a08c-thumb.webp",
+    "width": 690,
+    "height": 399,
+    "bytes": 57512
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic619e2b5bb6444.jpg",
+    "path": "/assets/images/990e4c999ea8.webp",
+    "thumb": "/assets/images/990e4c999ea8-thumb.webp",
+    "width": 690,
+    "height": 399,
+    "bytes": 62464
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic619e2bb18b68a.jpg",
+    "path": "/assets/images/cadf9259c76d.webp",
+    "thumb": "/assets/images/cadf9259c76d-thumb.webp",
+    "width": 690,
+    "height": 399,
+    "bytes": 72710
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/gruppenwerk_logo.svg",
+    "path": "/assets/d8dec5e24863.svg",
+    "width": 0,
+    "height": 0
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609ad566110cd.jpg",
+    "path": "/assets/images/bdc14d27234a.webp",
+    "thumb": "/assets/images/bdc14d27234a-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 262738
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609ab5730e53c.jpg",
+    "path": "/assets/images/3f07db032458.webp",
+    "thumb": "/assets/images/3f07db032458-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 239228
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a69e409226e.jpg",
+    "path": "/assets/images/b04ece80c729.webp",
+    "thumb": "/assets/images/b04ece80c729-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 331382
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a69eb1c267f.jpg",
+    "path": "/assets/images/54f2f3a85691.webp",
+    "thumb": "/assets/images/54f2f3a85691-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 94510
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a69eccc1afc.jpg",
+    "path": "/assets/images/d2edc872a070.webp",
+    "thumb": "/assets/images/d2edc872a070-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 198402
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a69f6dc74cd.jpg",
+    "path": "/assets/images/330a29ac4fc7.webp",
+    "thumb": "/assets/images/330a29ac4fc7-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 178874
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6183c26824a01.jpg",
+    "path": "/assets/images/148ed56ae0da.webp",
+    "thumb": "/assets/images/148ed56ae0da-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 383410
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6183c292f3848.jpg",
+    "path": "/assets/images/4461a23e87f7.webp",
+    "thumb": "/assets/images/4461a23e87f7-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 310038
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6183c2b88a2f3.jpg",
+    "path": "/assets/images/1d6a3d1ea45d.webp",
+    "thumb": "/assets/images/1d6a3d1ea45d-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 249382
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a97cf61e96.jpg",
+    "path": "/assets/images/36e53a18c13d.webp",
+    "thumb": "/assets/images/36e53a18c13d-thumb.webp",
+    "width": 400,
+    "height": 294,
+    "bytes": 31818
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618bf88713038.jpg",
+    "path": "/assets/images/003210661c51.webp",
+    "thumb": "/assets/images/003210661c51-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 70044
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a88e14fee5.jpg",
+    "path": "/assets/images/8677b82aa081.webp",
+    "thumb": "/assets/images/8677b82aa081-thumb.webp",
+    "width": 400,
+    "height": 294,
+    "bytes": 29018
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618bf8cf8f4c4.png",
+    "path": "/assets/images/fdeceb0d0583.webp",
+    "thumb": "/assets/images/fdeceb0d0583-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 17742
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild611e7bf2caa34.png",
+    "path": "/assets/images/a2f154d16412.webp",
+    "thumb": "/assets/images/a2f154d16412-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 252722
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild611e7b46b5596.png",
+    "path": "/assets/images/652dae96b42f.webp",
+    "thumb": "/assets/images/652dae96b42f-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 204460
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6182b5c3929eb.png",
+    "path": "/assets/images/0174991d2167.webp",
+    "thumb": "/assets/images/0174991d2167-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 218744
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild611e7b073b5bb.png",
+    "path": "/assets/images/8038987a2b24.webp",
+    "thumb": "/assets/images/8038987a2b24-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 201896
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic619b9c3aa6196.jpg",
+    "path": "/assets/images/4275d96e04cc.webp",
+    "thumb": "/assets/images/4275d96e04cc-thumb.webp",
+    "width": 550,
+    "height": 550,
+    "bytes": 50868
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic635a4f1cd46ba.jpg",
+    "path": "/assets/images/66fed57a3267.webp",
+    "thumb": "/assets/images/66fed57a3267-thumb.webp",
+    "width": 550,
+    "height": 550,
+    "bytes": 23194
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic619b9c635a828.jpg",
+    "path": "/assets/images/b15a57059202.webp",
+    "thumb": "/assets/images/b15a57059202-thumb.webp",
+    "width": 550,
+    "height": 550,
+    "bytes": 17962
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic619ba3d02100c.jpg",
+    "path": "/assets/images/5b8429d24ba9.webp",
+    "thumb": "/assets/images/5b8429d24ba9-thumb.webp",
+    "width": 550,
+    "height": 550,
+    "bytes": 30596
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic6194e55c0a271.jpg",
+    "path": "/assets/images/29f47931cb25.webp",
+    "thumb": "/assets/images/29f47931cb25-thumb.webp",
+    "width": 550,
+    "height": 550,
+    "bytes": 36626
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609aab7a76343.jpg",
+    "path": "/assets/images/69d0c2b5d53a.webp",
+    "thumb": "/assets/images/69d0c2b5d53a-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 233154
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609aacb373cde.jpg",
+    "path": "/assets/images/b2ced1756cff.webp",
+    "thumb": "/assets/images/b2ced1756cff-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 195486
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609ae540683bc.jpg",
+    "path": "/assets/images/bc6806a48ffc.webp",
+    "thumb": "/assets/images/bc6806a48ffc-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 189802
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a6a0822d50c.jpg",
+    "path": "/assets/images/7a3ea9d6c688.webp",
+    "thumb": "/assets/images/7a3ea9d6c688-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 231480
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a6a0a560bb9.jpg",
+    "path": "/assets/images/257d4401bd72.webp",
+    "thumb": "/assets/images/257d4401bd72-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 184546
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a6a0c39990e.jpg",
+    "path": "/assets/images/e4ebf823ac97.webp",
+    "thumb": "/assets/images/e4ebf823ac97-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 87012
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a6a11c2b1c9.jpg",
+    "path": "/assets/images/22f5cb4f95a9.webp",
+    "thumb": "/assets/images/22f5cb4f95a9-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 119574
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a6a4ed1d364.jpg",
+    "path": "/assets/images/8dbd5195d548.webp",
+    "thumb": "/assets/images/8dbd5195d548-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 141414
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6183c2f24a41f.jpg",
+    "path": "/assets/images/d617be17a9b7.webp",
+    "thumb": "/assets/images/d617be17a9b7-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 319944
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609acdd18cfa1.jpg",
+    "path": "/assets/images/96ed5a24db9a.webp",
+    "thumb": "/assets/images/96ed5a24db9a-thumb.webp",
+    "width": 690,
+    "height": 500,
+    "bytes": 72274
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d42e87b2cd.jpg",
+    "path": "/assets/images/eaa89ee5b5bc.webp",
+    "thumb": "/assets/images/eaa89ee5b5bc-thumb.webp",
+    "width": 690,
+    "height": 500,
+    "bytes": 44532
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic60a69b0293505.jpg",
+    "path": "/assets/images/e5accfd93cdf.webp",
+    "thumb": "/assets/images/e5accfd93cdf-thumb.webp",
+    "width": 690,
+    "height": 500,
+    "bytes": 58576
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d4533bc2d2.jpg",
+    "path": "/assets/images/a98c7679c710.webp",
+    "thumb": "/assets/images/a98c7679c710-thumb.webp",
+    "width": 690,
+    "height": 500,
+    "bytes": 63450
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61a4fcea6c366.jpg",
+    "path": "/assets/images/c5a15c3d38bb.webp",
+    "thumb": "/assets/images/c5a15c3d38bb-thumb.webp",
+    "width": 690,
+    "height": 500,
+    "bytes": 21010
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d4626d1134.jpg",
+    "path": "/assets/images/00eef629e75f.webp",
+    "thumb": "/assets/images/00eef629e75f-thumb.webp",
+    "width": 690,
+    "height": 500,
+    "bytes": 49252
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d46fc584e4.jpg",
+    "path": "/assets/images/25ec85a45448.webp",
+    "thumb": "/assets/images/25ec85a45448-thumb.webp",
+    "width": 690,
+    "height": 500,
+    "bytes": 24186
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609ae908746ba.jpg",
+    "path": "/assets/images/6f0704019db5.webp",
+    "thumb": "/assets/images/6f0704019db5-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 161652
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a6a18139420.jpg",
+    "path": "/assets/images/6949f848a485.webp",
+    "thumb": "/assets/images/6949f848a485-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 221758
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a6a1a129811.jpg",
+    "path": "/assets/images/2f5bcebd85f2.webp",
+    "thumb": "/assets/images/2f5bcebd85f2-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 89556
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a6a1d2429df.jpg",
+    "path": "/assets/images/397d91bff185.webp",
+    "thumb": "/assets/images/397d91bff185-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 233748
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a6a20d55ec8.jpg",
+    "path": "/assets/images/1f92d49fa6d6.webp",
+    "thumb": "/assets/images/1f92d49fa6d6-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 103208
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild60a6a53a626c8.jpg",
+    "path": "/assets/images/92a3889300f5.webp",
+    "thumb": "/assets/images/92a3889300f5-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 126056
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild611e7a96e1988.png",
+    "path": "/assets/images/c3141d786ecb.webp",
+    "thumb": "/assets/images/c3141d786ecb-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 625054
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6135de12015ed.png",
+    "path": "/assets/images/8b37ecfb44c4.webp",
+    "thumb": "/assets/images/8b37ecfb44c4-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 130806
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6182b4f7ecc62.png",
+    "path": "/assets/images/122eac3fcf3a.webp",
+    "thumb": "/assets/images/122eac3fcf3a-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 218744
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6182b60d02e1f.png",
+    "path": "/assets/images/02dceac32f99.webp",
+    "thumb": "/assets/images/02dceac32f99-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 172984
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6230400106370.jpg",
+    "path": "/assets/images/40b7842cbf46.webp",
+    "thumb": "/assets/images/40b7842cbf46-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 114502
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624ea83a40622.jpg",
+    "path": "/assets/images/e173a786d34a.webp",
+    "thumb": "/assets/images/e173a786d34a-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 64344
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624eabc54f76a.jpg",
+    "path": "/assets/images/01c541826b36.webp",
+    "thumb": "/assets/images/01c541826b36-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 88622
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624ead3f1864c.jpg",
+    "path": "/assets/images/7918e52256d0.webp",
+    "thumb": "/assets/images/7918e52256d0-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 111956
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624eaefc780f1.jpg",
+    "path": "/assets/images/b27962366a5b.webp",
+    "thumb": "/assets/images/b27962366a5b-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 117760
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624eafef663f2.jpg",
+    "path": "/assets/images/fe9e272de7e6.webp",
+    "thumb": "/assets/images/fe9e272de7e6-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 220004
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624eb03cef107.jpg",
+    "path": "/assets/images/9081d3df0bd0.webp",
+    "thumb": "/assets/images/9081d3df0bd0-thumb.webp",
+    "width": 1400,
+    "height": 1208,
+    "bytes": 194870
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624eb0a98c718.jpg",
+    "path": "/assets/images/97fdb10d7dea.webp",
+    "thumb": "/assets/images/97fdb10d7dea-thumb.webp",
+    "width": 1400,
+    "height": 1924,
+    "bytes": 189402
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624eb122ab56c.jpg",
+    "path": "/assets/images/2d0c8a29ac50.webp",
+    "thumb": "/assets/images/2d0c8a29ac50-thumb.webp",
+    "width": 1400,
+    "height": 882,
+    "bytes": 122810
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624eb19680e6f.jpg",
+    "path": "/assets/images/155a5f1b0315.webp",
+    "thumb": "/assets/images/155a5f1b0315-thumb.webp",
+    "width": 1400,
+    "height": 1257,
+    "bytes": 137222
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624eb1d7b078d.jpg",
+    "path": "/assets/images/6983d20f0847.webp",
+    "thumb": "/assets/images/6983d20f0847-thumb.webp",
+    "width": 1400,
+    "height": 1779,
+    "bytes": 109694
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624eb27825d42.jpg",
+    "path": "/assets/images/f97ea10c5844.webp",
+    "thumb": "/assets/images/f97ea10c5844-thumb.webp",
+    "width": 1400,
+    "height": 2098,
+    "bytes": 109782
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic624eb2fe08796.jpg",
+    "path": "/assets/images/f394ad9a8211.webp",
+    "thumb": "/assets/images/f394ad9a8211-thumb.webp",
+    "width": 1400,
+    "height": 2098,
+    "bytes": 109970
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618a9870880bb.jpg",
+    "path": "/assets/images/6a29009b45bd.webp",
+    "thumb": "/assets/images/6a29009b45bd-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 315910
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183b573adb7b.jpg",
+    "path": "/assets/images/7fa0fc3cd2b0.webp",
+    "thumb": "/assets/images/7fa0fc3cd2b0-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 177164
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183b57f2049f.jpg",
+    "path": "/assets/images/bd6e6a8a0782.webp",
+    "thumb": "/assets/images/bd6e6a8a0782-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 89828
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183b589dfeb6.jpg",
+    "path": "/assets/images/96557db2b850.webp",
+    "thumb": "/assets/images/96557db2b850-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 232450
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183b59337e79.jpg",
+    "path": "/assets/images/60cc9a50b4bf.webp",
+    "thumb": "/assets/images/60cc9a50b4bf-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 203044
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183b5e3057ee.jpg",
+    "path": "/assets/images/342fc18fe1eb.webp",
+    "thumb": "/assets/images/342fc18fe1eb-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 217522
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183b5f0a33a8.jpg",
+    "path": "/assets/images/8910248128fa.webp",
+    "thumb": "/assets/images/8910248128fa-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 240350
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183b5facd431.jpg",
+    "path": "/assets/images/fc5f31a9bbd1.webp",
+    "thumb": "/assets/images/fc5f31a9bbd1-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 232124
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6194f019761e7.jpg",
+    "path": "/assets/images/8e25f3e6da7e.webp",
+    "thumb": "/assets/images/8e25f3e6da7e-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 351520
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194eea4c9a71.jpg",
+    "path": "/assets/images/7e2787d46ad7.webp",
+    "thumb": "/assets/images/7e2787d46ad7-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 283664
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194ef5b6d1dc.jpg",
+    "path": "/assets/images/e3375703996f.webp",
+    "thumb": "/assets/images/e3375703996f-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 102868
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194ef629b5d0.jpg",
+    "path": "/assets/images/5e8e7641f687.webp",
+    "thumb": "/assets/images/5e8e7641f687-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 111222
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194ef69807df.jpg",
+    "path": "/assets/images/4c013291932f.webp",
+    "thumb": "/assets/images/4c013291932f-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 88634
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194ef71959d3.jpg",
+    "path": "/assets/images/263210d1b024.webp",
+    "thumb": "/assets/images/263210d1b024-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 183052
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194ef7f6c731.jpg",
+    "path": "/assets/images/011f76b345e5.webp",
+    "thumb": "/assets/images/011f76b345e5-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 325128
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194ef87bc8eb.jpg",
+    "path": "/assets/images/c043e97ee498.webp",
+    "thumb": "/assets/images/c043e97ee498-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 274238
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194ef9004fca.jpg",
+    "path": "/assets/images/e6c12df76ad5.webp",
+    "thumb": "/assets/images/e6c12df76ad5-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 311340
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194ef981e2ff.jpg",
+    "path": "/assets/images/66034a498d4c.webp",
+    "thumb": "/assets/images/66034a498d4c-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 248060
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194efa256458.jpg",
+    "path": "/assets/images/652c79fcf717.webp",
+    "thumb": "/assets/images/652c79fcf717-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 277852
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194efac2cc33.jpg",
+    "path": "/assets/images/908a7bce2264.webp",
+    "thumb": "/assets/images/908a7bce2264-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 294754
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194efb515c3a.jpg",
+    "path": "/assets/images/5d7a5bba0555.webp",
+    "thumb": "/assets/images/5d7a5bba0555-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 189122
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194efbd7de16.jpg",
+    "path": "/assets/images/c58f957455e9.webp",
+    "thumb": "/assets/images/c58f957455e9-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 246132
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6194efe48dd24.jpg",
+    "path": "/assets/images/726e9721878c.webp",
+    "thumb": "/assets/images/726e9721878c-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 140910
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6183bf478ffec.jpg",
+    "path": "/assets/images/00ef5fca3ae5.webp",
+    "thumb": "/assets/images/00ef5fca3ae5-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 463522
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183bed29f237.jpg",
+    "path": "/assets/images/d2f6f18cc646.webp",
+    "thumb": "/assets/images/d2f6f18cc646-thumb.webp",
+    "width": 1400,
+    "height": 1031,
+    "bytes": 311326
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183bedcd49a5.jpg",
+    "path": "/assets/images/ab240527960c.webp",
+    "thumb": "/assets/images/ab240527960c-thumb.webp",
+    "width": 1400,
+    "height": 1031,
+    "bytes": 393548
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183bee80a3cc.jpg",
+    "path": "/assets/images/17e7ccb12bf6.webp",
+    "thumb": "/assets/images/17e7ccb12bf6-thumb.webp",
+    "width": 1400,
+    "height": 1031,
+    "bytes": 301810
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183bef2f0a66.jpg",
+    "path": "/assets/images/2a544ac22cf2.webp",
+    "thumb": "/assets/images/2a544ac22cf2-thumb.webp",
+    "width": 1400,
+    "height": 1032,
+    "bytes": 375684
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183befd5ba7c.jpg",
+    "path": "/assets/images/9647d5f02bfc.webp",
+    "thumb": "/assets/images/9647d5f02bfc-thumb.webp",
+    "width": 1400,
+    "height": 1031,
+    "bytes": 194402
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183bf0788682.jpg",
+    "path": "/assets/images/2c2d9f0f16d2.webp",
+    "thumb": "/assets/images/2c2d9f0f16d2-thumb.webp",
+    "width": 1400,
+    "height": 1031,
+    "bytes": 311052
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183bf11c6a37.jpg",
+    "path": "/assets/images/31cd3ef15e74.webp",
+    "thumb": "/assets/images/31cd3ef15e74-thumb.webp",
+    "width": 1400,
+    "height": 1031,
+    "bytes": 123574
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183bf1b8b2fb.jpg",
+    "path": "/assets/images/723d98c6c73c.webp",
+    "thumb": "/assets/images/723d98c6c73c-thumb.webp",
+    "width": 1400,
+    "height": 1031,
+    "bytes": 133422
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183bf25a1c7e.jpg",
+    "path": "/assets/images/6d73ade4f7aa.webp",
+    "thumb": "/assets/images/6d73ade4f7aa-thumb.webp",
+    "width": 1400,
+    "height": 1031,
+    "bytes": 426540
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6183bf3024e72.jpg",
+    "path": "/assets/images/a2aa30a6a663.webp",
+    "thumb": "/assets/images/a2aa30a6a663-thumb.webp",
+    "width": 1400,
+    "height": 1031,
+    "bytes": 365294
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609b9550f2e8c.jpg",
+    "path": "/assets/images/3c3fac938da5.webp",
+    "thumb": "/assets/images/3c3fac938da5-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 186774
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b9580c4ca9.jpg",
+    "path": "/assets/images/15fc47dec456.webp",
+    "thumb": "/assets/images/15fc47dec456-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 111516
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b958d42434.jpg",
+    "path": "/assets/images/a5ccdf6080b4.webp",
+    "thumb": "/assets/images/a5ccdf6080b4-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 173656
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b959a81a67.jpg",
+    "path": "/assets/images/fdd3bcf9a290.webp",
+    "thumb": "/assets/images/fdd3bcf9a290-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 180342
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b95a6cf815.jpg",
+    "path": "/assets/images/86074696f7a7.webp",
+    "thumb": "/assets/images/86074696f7a7-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 132956
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b95beaed40.jpg",
+    "path": "/assets/images/6da82489d36b.webp",
+    "thumb": "/assets/images/6da82489d36b-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 194846
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b95d539e1d.jpg",
+    "path": "/assets/images/cfebc87f8f4b.webp",
+    "thumb": "/assets/images/cfebc87f8f4b-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 132036
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b95ea16cd6.jpg",
+    "path": "/assets/images/3382b09e1580.webp",
+    "thumb": "/assets/images/3382b09e1580-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 219018
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b9667cc0ca.jpg",
+    "path": "/assets/images/a2f883d4f202.webp",
+    "thumb": "/assets/images/a2f883d4f202-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 178970
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609aa87a9b2c7.jpg",
+    "path": "/assets/images/1d733f1e08d4.webp",
+    "thumb": "/assets/images/1d733f1e08d4-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 246648
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aa91f52646.jpg",
+    "path": "/assets/images/168ab82e1dc1.webp",
+    "thumb": "/assets/images/168ab82e1dc1-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 171062
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aa93767c67.jpg",
+    "path": "/assets/images/a3c9b0ad751c.webp",
+    "thumb": "/assets/images/a3c9b0ad751c-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 153672
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aa95c6d6b1.jpg",
+    "path": "/assets/images/06f2d412571f.webp",
+    "thumb": "/assets/images/06f2d412571f-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 190750
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aa982da32c.jpg",
+    "path": "/assets/images/ecbb3d84b030.webp",
+    "thumb": "/assets/images/ecbb3d84b030-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 201876
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aa9aee92d8.jpg",
+    "path": "/assets/images/749854a53fd2.webp",
+    "thumb": "/assets/images/749854a53fd2-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 252050
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aaaf887632.jpg",
+    "path": "/assets/images/9e43389cc4b8.webp",
+    "thumb": "/assets/images/9e43389cc4b8-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 278608
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609afac532aed.jpg",
+    "path": "/assets/images/68b266d99414.webp",
+    "thumb": "/assets/images/68b266d99414-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 132646
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609afaf8ade88.jpg",
+    "path": "/assets/images/ae1b51d610b9.webp",
+    "thumb": "/assets/images/ae1b51d610b9-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 138224
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609b9b16cc43e.jpg",
+    "path": "/assets/images/c6e301e711ce.webp",
+    "thumb": "/assets/images/c6e301e711ce-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 253810
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b9b4554098.jpg",
+    "path": "/assets/images/e10faaf0f391.webp",
+    "thumb": "/assets/images/e10faaf0f391-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 170848
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b9b5ce176d.jpg",
+    "path": "/assets/images/ca6863b6be99.webp",
+    "thumb": "/assets/images/ca6863b6be99-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 210636
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b9bdd83565.jpg",
+    "path": "/assets/images/5c2aa9194910.webp",
+    "thumb": "/assets/images/5c2aa9194910-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 293518
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b9c2179160.jpg",
+    "path": "/assets/images/b4a927597ad5.webp",
+    "thumb": "/assets/images/b4a927597ad5-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 175586
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b9e5b8d999.jpg",
+    "path": "/assets/images/2b61c72112ec.webp",
+    "thumb": "/assets/images/2b61c72112ec-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 333774
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b9e8a0c287.jpg",
+    "path": "/assets/images/6708652fd735.webp",
+    "thumb": "/assets/images/6708652fd735-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 182700
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b9eb9cfc4e.jpg",
+    "path": "/assets/images/3029ac2f3cda.webp",
+    "thumb": "/assets/images/3029ac2f3cda-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 176306
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b9edd5e4bb.jpg",
+    "path": "/assets/images/d14d75bbaa81.webp",
+    "thumb": "/assets/images/d14d75bbaa81-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 111410
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609af79b08582.jpg",
+    "path": "/assets/images/b532f75dd1c2.webp",
+    "thumb": "/assets/images/b532f75dd1c2-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 273584
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609af7c131e59.jpg",
+    "path": "/assets/images/3e07e16abe97.webp",
+    "thumb": "/assets/images/3e07e16abe97-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 264368
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609af7cbcdc49.jpg",
+    "path": "/assets/images/ea4956b053f6.webp",
+    "thumb": "/assets/images/ea4956b053f6-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 316102
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609af7d4d791a.jpg",
+    "path": "/assets/images/5484f4100543.webp",
+    "thumb": "/assets/images/5484f4100543-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 292068
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609af7de5440e.jpg",
+    "path": "/assets/images/3c4d078d6707.webp",
+    "thumb": "/assets/images/3c4d078d6707-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 246784
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609af7e9f4033.jpg",
+    "path": "/assets/images/46d9d98f9f7c.webp",
+    "thumb": "/assets/images/46d9d98f9f7c-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 249114
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609af7f40d6e4.jpg",
+    "path": "/assets/images/c759d32add3d.webp",
+    "thumb": "/assets/images/c759d32add3d-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 324814
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609af7ff38430.jpg",
+    "path": "/assets/images/ec59792a490f.webp",
+    "thumb": "/assets/images/ec59792a490f-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 255956
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609af8161600c.jpg",
+    "path": "/assets/images/81767117b1d9.webp",
+    "thumb": "/assets/images/81767117b1d9-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 181298
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618ba1bf20e16.jpg",
+    "path": "/assets/images/6fe2359e6edf.webp",
+    "thumb": "/assets/images/6fe2359e6edf-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 53282
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic6111689ad5619.jpg",
+    "path": "/assets/images/ec92d99ad896.webp",
+    "thumb": "/assets/images/ec92d99ad896-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 51214
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic61116a70b6f69.jpg",
+    "path": "/assets/images/e145d9492943.webp",
+    "thumb": "/assets/images/e145d9492943-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 61330
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a9851f1109.jpg",
+    "path": "/assets/images/4c961e9c5480.webp",
+    "thumb": "/assets/images/4c961e9c5480-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 47698
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a9959aae58.jpg",
+    "path": "/assets/images/08116d269107.webp",
+    "thumb": "/assets/images/08116d269107-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 36798
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a9a8e4e3a1.png",
+    "path": "/assets/images/02c39a699f36.webp",
+    "thumb": "/assets/images/02c39a699f36-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 34830
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a9b32bef50.jpg",
+    "path": "/assets/images/89fd12d50ccb.webp",
+    "thumb": "/assets/images/89fd12d50ccb-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 57680
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a9c8a2a973.png",
+    "path": "/assets/images/79da65429df6.webp",
+    "thumb": "/assets/images/79da65429df6-thumb.webp",
+    "width": 400,
+    "height": 294,
+    "bytes": 33668
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a9cf66bce6.jpg",
+    "path": "/assets/images/271b39608dea.webp",
+    "thumb": "/assets/images/271b39608dea-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 52234
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613a1e27f17fd.jpg",
+    "path": "/assets/images/767f29c2a4aa.webp",
+    "thumb": "/assets/images/767f29c2a4aa-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 45202
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613a1eeb134a3.jpg",
+    "path": "/assets/images/70c34fc37dd3.webp",
+    "thumb": "/assets/images/70c34fc37dd3-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 38674
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic6183bf7b8872b.jpg",
+    "path": "/assets/images/46f5774d6336.webp",
+    "thumb": "/assets/images/46f5774d6336-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 70488
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613a1dae05c3e.jpg",
+    "path": "/assets/images/1d5dfc088f3e.webp",
+    "thumb": "/assets/images/1d5dfc088f3e-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 12254
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613a1ddda1f4d.jpg",
+    "path": "/assets/images/e75aff23e6ce.webp",
+    "thumb": "/assets/images/e75aff23e6ce-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 30974
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a9fb034782.jpg",
+    "path": "/assets/images/adf377dc524a.webp",
+    "thumb": "/assets/images/adf377dc524a-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 31226
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613a1e6d03931.jpg",
+    "path": "/assets/images/bbd47fe3aa31.webp",
+    "thumb": "/assets/images/bbd47fe3aa31-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 26536
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b2deebc6fb.png",
+    "path": "/assets/images/7362e45bae45.webp",
+    "thumb": "/assets/images/7362e45bae45-thumb.webp",
+    "width": 550,
+    "height": 406,
+    "bytes": 27766
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a88968a574.jpg",
+    "path": "/assets/images/7e48c325e32d.webp",
+    "thumb": "/assets/images/7e48c325e32d-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 50296
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a900c5fd4b.jpg",
+    "path": "/assets/images/5453859d741d.webp",
+    "thumb": "/assets/images/5453859d741d-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 36788
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic61116ce045ff5.jpg",
+    "path": "/assets/images/606eb47298cd.webp",
+    "thumb": "/assets/images/606eb47298cd-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 38034
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic61116d098cf4c.png",
+    "path": "/assets/images/1c52f25b1ea9.webp",
+    "thumb": "/assets/images/1c52f25b1ea9-thumb.webp",
+    "width": 550,
+    "height": 403,
+    "bytes": 22830
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic61116d4c88975.jpg",
+    "path": "/assets/images/049bd162cd30.webp",
+    "thumb": "/assets/images/049bd162cd30-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 34094
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b69b179b9b.jpg",
+    "path": "/assets/images/8978e78ee3e9.webp",
+    "thumb": "/assets/images/8978e78ee3e9-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 24950
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b3588c6d55.jpg",
+    "path": "/assets/images/ba57cb5ed5bc.webp",
+    "thumb": "/assets/images/ba57cb5ed5bc-thumb.webp",
+    "width": 400,
+    "height": 294,
+    "bytes": 19916
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b35f570d80.jpg",
+    "path": "/assets/images/acc0dcb68aa8.webp",
+    "thumb": "/assets/images/acc0dcb68aa8-thumb.webp",
+    "width": 400,
+    "height": 294,
+    "bytes": 21904
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b35b841e52.jpg",
+    "path": "/assets/images/8b0ba888fc79.webp",
+    "thumb": "/assets/images/8b0ba888fc79-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 41266
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618d5164064b0.jpg",
+    "path": "/assets/images/ded58363a0d8.webp",
+    "thumb": "/assets/images/ded58363a0d8-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 52016
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic624ea2adc8818.jpg",
+    "path": "/assets/images/14ff0777ee93.webp",
+    "thumb": "/assets/images/14ff0777ee93-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 41448
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic61116e1f02802.jpg",
+    "path": "/assets/images/1299b17d5525.webp",
+    "thumb": "/assets/images/1299b17d5525-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 25598
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618b85f1b4cb0.png",
+    "path": "/assets/images/4b006ee4fa3c.webp",
+    "thumb": "/assets/images/4b006ee4fa3c-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 17178
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic61116e76d1916.jpg",
+    "path": "/assets/images/50e67c721abf.webp",
+    "thumb": "/assets/images/50e67c721abf-thumb.webp",
+    "width": 400,
+    "height": 294,
+    "bytes": 12762
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618b87c08e06f.jpg",
+    "path": "/assets/images/b15b272e30bf.webp",
+    "thumb": "/assets/images/b15b272e30bf-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 17942
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b2338b45d4.jpg",
+    "path": "/assets/images/0d33b74805ef.webp",
+    "thumb": "/assets/images/0d33b74805ef-thumb.webp",
+    "width": 400,
+    "height": 294,
+    "bytes": 12154
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b251a5ea85.jpg",
+    "path": "/assets/images/6358cebd7a3e.webp",
+    "thumb": "/assets/images/6358cebd7a3e-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 27970
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618b896778d7f.jpg",
+    "path": "/assets/images/29bf3e5805e1.webp",
+    "thumb": "/assets/images/29bf3e5805e1-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 19136
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618b8ac99937f.jpg",
+    "path": "/assets/images/6c399907dc19.webp",
+    "thumb": "/assets/images/6c399907dc19-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 24452
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b1f80002fd.jpg",
+    "path": "/assets/images/41c8ea0c60bb.webp",
+    "thumb": "/assets/images/41c8ea0c60bb-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 20764
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b2f45ae9c2.jpg",
+    "path": "/assets/images/590f81169b4e.webp",
+    "thumb": "/assets/images/590f81169b4e-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 17814
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b315157f0e.jpg",
+    "path": "/assets/images/46f6733f8fba.webp",
+    "thumb": "/assets/images/46f6733f8fba-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 44594
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b34299de03.jpg",
+    "path": "/assets/images/d64f5d7e597b.webp",
+    "thumb": "/assets/images/d64f5d7e597b-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 44872
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b39b88ca59.jpg",
+    "path": "/assets/images/6e81f350a00e.webp",
+    "thumb": "/assets/images/6e81f350a00e-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 18558
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b3b2401946.jpg",
+    "path": "/assets/images/a3fc12855dd9.webp",
+    "thumb": "/assets/images/a3fc12855dd9-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 16870
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b451664b00.jpg",
+    "path": "/assets/images/1c835dd2e098.webp",
+    "thumb": "/assets/images/1c835dd2e098-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 17688
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b53007a6c1.jpg",
+    "path": "/assets/images/443c6f60ea40.webp",
+    "thumb": "/assets/images/443c6f60ea40-thumb.webp",
+    "width": 400,
+    "height": 294,
+    "bytes": 10550
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic613b4a87e2a5d.jpg",
+    "path": "/assets/images/4bd51430e104.webp",
+    "thumb": "/assets/images/4bd51430e104-thumb.webp",
+    "width": 400,
+    "height": 294,
+    "bytes": 24558
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618a91c314259.jpg",
+    "path": "/assets/images/d21ce9fdcb60.webp",
+    "thumb": "/assets/images/d21ce9fdcb60-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 24556
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618b8cc3684c2.jpg",
+    "path": "/assets/images/af2d18614107.webp",
+    "thumb": "/assets/images/af2d18614107-thumb.webp",
+    "width": 550,
+    "height": 404,
+    "bytes": 20738
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/2_pic618b8d6d1c924.jpg",
+    "path": "/assets/images/a1002dce9358.webp",
+    "thumb": "/assets/images/a1002dce9358-thumb.webp",
+    "width": 550,
+    "height": 405,
+    "bytes": 40580
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b32cd6248c.jpg",
+    "path": "/assets/images/4b71097c6203.webp",
+    "thumb": "/assets/images/4b71097c6203-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 147750
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b36823c22f.jpg",
+    "path": "/assets/images/086a31df935a.webp",
+    "thumb": "/assets/images/086a31df935a-thumb.webp",
+    "width": 1400,
+    "height": 1049,
+    "bytes": 127272
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b368b6679e.jpg",
+    "path": "/assets/images/a748d0c785de.webp",
+    "thumb": "/assets/images/a748d0c785de-thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "bytes": 109884
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3693ec260.jpg",
+    "path": "/assets/images/0dc981e3bad4.webp",
+    "thumb": "/assets/images/0dc981e3bad4-thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "bytes": 137054
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b369cb38d0.jpg",
+    "path": "/assets/images/1ba98abab817.webp",
+    "thumb": "/assets/images/1ba98abab817-thumb.webp",
+    "width": 1400,
+    "height": 1049,
+    "bytes": 95898
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6102a3b704216.png",
+    "path": "/assets/images/e56f12eab569.webp",
+    "thumb": "/assets/images/e56f12eab569-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 170178
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a1ee570bb.png",
+    "path": "/assets/images/40ade8e4ee3e.webp",
+    "thumb": "/assets/images/40ade8e4ee3e-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 126558
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a22429e46.png",
+    "path": "/assets/images/bc9bf33bfce7.webp",
+    "thumb": "/assets/images/bc9bf33bfce7-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 151362
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a23b64b19.png",
+    "path": "/assets/images/24eccf3d6b21.webp",
+    "thumb": "/assets/images/24eccf3d6b21-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 188700
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a25b9d3a3.png",
+    "path": "/assets/images/ca3e2b8e5608.webp",
+    "thumb": "/assets/images/ca3e2b8e5608-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 126808
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a29124102.png",
+    "path": "/assets/images/0381bd284a18.webp",
+    "thumb": "/assets/images/0381bd284a18-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 149550
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a2a389277.png",
+    "path": "/assets/images/0ee191328881.webp",
+    "thumb": "/assets/images/0ee191328881-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 140456
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a2b21e128.png",
+    "path": "/assets/images/65e413b23a93.webp",
+    "thumb": "/assets/images/65e413b23a93-thumb.webp",
+    "width": 1400,
+    "height": 1035,
+    "bytes": 99364
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a2c12bb37.png",
+    "path": "/assets/images/e3857487a8ad.webp",
+    "thumb": "/assets/images/e3857487a8ad-thumb.webp",
+    "width": 1400,
+    "height": 1036,
+    "bytes": 130868
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b3a1d71858.jpg",
+    "path": "/assets/images/4f7683af3aee.webp",
+    "thumb": "/assets/images/4f7683af3aee-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 88772
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3b955b901.jpg",
+    "path": "/assets/images/c2d9eb948fce.webp",
+    "thumb": "/assets/images/c2d9eb948fce-thumb.webp",
+    "width": 1400,
+    "height": 1063,
+    "bytes": 109092
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3ba1802a0.jpg",
+    "path": "/assets/images/ddba712cfd4a.webp",
+    "thumb": "/assets/images/ddba712cfd4a-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 45380
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3ba9f009e.jpg",
+    "path": "/assets/images/c0e37b8fae35.webp",
+    "thumb": "/assets/images/c0e37b8fae35-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 47632
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3bb3130dd.jpg",
+    "path": "/assets/images/a4c2fe02edb6.webp",
+    "thumb": "/assets/images/a4c2fe02edb6-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 42980
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3bbab587b.jpg",
+    "path": "/assets/images/619c30ba1e68.webp",
+    "thumb": "/assets/images/619c30ba1e68-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 96334
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3bcaef238.jpg",
+    "path": "/assets/images/8a42789536ec.webp",
+    "thumb": "/assets/images/8a42789536ec-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 68038
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3bd3d7237.jpg",
+    "path": "/assets/images/7612b4030ba7.webp",
+    "thumb": "/assets/images/7612b4030ba7-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 26944
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3bde634c1.jpg",
+    "path": "/assets/images/2fb28c27c6b9.webp",
+    "thumb": "/assets/images/2fb28c27c6b9-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 68216
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3be9d80f7.jpg",
+    "path": "/assets/images/8f3e632cf433.webp",
+    "thumb": "/assets/images/8f3e632cf433-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 64156
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3bf1f0e21.jpg",
+    "path": "/assets/images/84c4c02bc5ef.webp",
+    "thumb": "/assets/images/84c4c02bc5ef-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 45354
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3bf8e6afb.jpg",
+    "path": "/assets/images/78cdaa5629d7.webp",
+    "thumb": "/assets/images/78cdaa5629d7-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 49864
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3c009a7ec.jpg",
+    "path": "/assets/images/ed777d94896f.webp",
+    "thumb": "/assets/images/ed777d94896f-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 42614
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3c092ba3a.jpg",
+    "path": "/assets/images/b57fa8736b06.webp",
+    "thumb": "/assets/images/b57fa8736b06-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 92774
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3c1107d2e.jpg",
+    "path": "/assets/images/5a7ba75393f5.webp",
+    "thumb": "/assets/images/5a7ba75393f5-thumb.webp",
+    "width": 1400,
+    "height": 1062,
+    "bytes": 41302
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b32323c9e5.jpg",
+    "path": "/assets/images/1811142d935d.webp",
+    "thumb": "/assets/images/1811142d935d-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 141254
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b5463e1f7f.jpg",
+    "path": "/assets/images/946d70176bae.webp",
+    "thumb": "/assets/images/946d70176bae-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 117094
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b549a9b320.jpg",
+    "path": "/assets/images/27187039853c.webp",
+    "thumb": "/assets/images/27187039853c-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 98118
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b54aaeb5ce.jpg",
+    "path": "/assets/images/7ce8d62ca7c2.webp",
+    "thumb": "/assets/images/7ce8d62ca7c2-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 161586
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b54c17778e.jpg",
+    "path": "/assets/images/400d91c05abd.webp",
+    "thumb": "/assets/images/400d91c05abd-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 109552
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b54e657e99.jpg",
+    "path": "/assets/images/826b4f6bd5fc.webp",
+    "thumb": "/assets/images/826b4f6bd5fc-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 146886
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b2043ef85d.jpg",
+    "path": "/assets/images/66fffe135da5.webp",
+    "thumb": "/assets/images/66fffe135da5-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 133290
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b20d6c8113.jpg",
+    "path": "/assets/images/a8a30b12f7bf.webp",
+    "thumb": "/assets/images/a8a30b12f7bf-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 59062
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b20e1a894e.jpg",
+    "path": "/assets/images/75f0c573c7b9.webp",
+    "thumb": "/assets/images/75f0c573c7b9-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 53652
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b20e933cb1.jpg",
+    "path": "/assets/images/795d98dafc0c.webp",
+    "thumb": "/assets/images/795d98dafc0c-thumb.webp",
+    "width": 1400,
+    "height": 968,
+    "bytes": 73700
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b20f108258.jpg",
+    "path": "/assets/images/f443f4832d1a.webp",
+    "thumb": "/assets/images/f443f4832d1a-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 65526
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b20f83ab56.jpg",
+    "path": "/assets/images/f538a27145b0.webp",
+    "thumb": "/assets/images/f538a27145b0-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 78254
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2108ca741.jpg",
+    "path": "/assets/images/fa6b2cc2faa1.webp",
+    "thumb": "/assets/images/fa6b2cc2faa1-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 95282
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b21321c34b.jpg",
+    "path": "/assets/images/cb0f82ebb38a.webp",
+    "thumb": "/assets/images/cb0f82ebb38a-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 102314
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b213e790c6.jpg",
+    "path": "/assets/images/4291c7579637.webp",
+    "thumb": "/assets/images/4291c7579637-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 49392
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2147d3624.jpg",
+    "path": "/assets/images/49a9d9d69b63.webp",
+    "thumb": "/assets/images/49a9d9d69b63-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 41978
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2151b1777.jpg",
+    "path": "/assets/images/343111d0f3da.webp",
+    "thumb": "/assets/images/343111d0f3da-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 35932
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b215f5beb1.jpg",
+    "path": "/assets/images/e33de6fb7b5a.webp",
+    "thumb": "/assets/images/e33de6fb7b5a-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 60730
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2169e9c5a.jpg",
+    "path": "/assets/images/c19a86ca916c.webp",
+    "thumb": "/assets/images/c19a86ca916c-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 51600
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b217587bcf.jpg",
+    "path": "/assets/images/cef77e674623.webp",
+    "thumb": "/assets/images/cef77e674623-thumb.webp",
+    "width": 1400,
+    "height": 966,
+    "bytes": 90172
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618a992b11e7d.jpg",
+    "path": "/assets/images/2a880e3bd8f7.webp",
+    "thumb": "/assets/images/2a880e3bd8f7-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 230040
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b28478c7da.jpg",
+    "path": "/assets/images/539565ad90ae.webp",
+    "thumb": "/assets/images/539565ad90ae-thumb.webp",
+    "width": 1400,
+    "height": 1012,
+    "bytes": 177522
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2854c17d1.jpg",
+    "path": "/assets/images/683489014765.webp",
+    "thumb": "/assets/images/683489014765-thumb.webp",
+    "width": 1400,
+    "height": 914,
+    "bytes": 147338
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b285c9bfd8.jpg",
+    "path": "/assets/images/285f9078450f.webp",
+    "thumb": "/assets/images/285f9078450f-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 147750
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b286536fb1.jpg",
+    "path": "/assets/images/1f46a28c187f.webp",
+    "thumb": "/assets/images/1f46a28c187f-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 152730
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b287661b05.jpg",
+    "path": "/assets/images/3cc4ee0e1385.webp",
+    "thumb": "/assets/images/3cc4ee0e1385-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 151460
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b287d9e7b2.jpg",
+    "path": "/assets/images/209b189a1e14.webp",
+    "thumb": "/assets/images/209b189a1e14-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 154028
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b28852a43b.jpg",
+    "path": "/assets/images/a064452feda6.webp",
+    "thumb": "/assets/images/a064452feda6-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 98156
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b288c8f890.jpg",
+    "path": "/assets/images/cc9e0047c353.webp",
+    "thumb": "/assets/images/cc9e0047c353-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 114476
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2894e78e6.jpg",
+    "path": "/assets/images/e1a0a9934031.webp",
+    "thumb": "/assets/images/e1a0a9934031-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 149452
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b289cb216f.jpg",
+    "path": "/assets/images/b2b9566550ed.webp",
+    "thumb": "/assets/images/b2b9566550ed-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 156442
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b28a4cb294.jpg",
+    "path": "/assets/images/839ba9ac90f0.webp",
+    "thumb": "/assets/images/839ba9ac90f0-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 117674
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b28ac9fd67.jpg",
+    "path": "/assets/images/dbb8c234390b.webp",
+    "thumb": "/assets/images/dbb8c234390b-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 170824
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b28b45cff0.jpg",
+    "path": "/assets/images/ad83d2ba9cf4.webp",
+    "thumb": "/assets/images/ad83d2ba9cf4-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 152902
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b28bc30f6c.jpg",
+    "path": "/assets/images/85cef4607e55.webp",
+    "thumb": "/assets/images/85cef4607e55-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 115070
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b28c3693d4.jpg",
+    "path": "/assets/images/e349e27137fc.webp",
+    "thumb": "/assets/images/e349e27137fc-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 119362
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b28cc20a01.jpg",
+    "path": "/assets/images/495693a9f854.webp",
+    "thumb": "/assets/images/495693a9f854-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 257218
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b28d38a71f.jpg",
+    "path": "/assets/images/ac81d1af6a51.webp",
+    "thumb": "/assets/images/ac81d1af6a51-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 154008
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b28dd948f0.jpg",
+    "path": "/assets/images/5104d7b82e88.webp",
+    "thumb": "/assets/images/5104d7b82e88-thumb.webp",
+    "width": 1400,
+    "height": 912,
+    "bytes": 203592
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618a9a374c952.png",
+    "path": "/assets/images/eb5f451c7965.webp",
+    "thumb": "/assets/images/eb5f451c7965-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 176546
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610282d1bbeba.png",
+    "path": "/assets/images/d990d17076c5.webp",
+    "thumb": "/assets/images/d990d17076c5-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 211084
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610282bf27da9.png",
+    "path": "/assets/images/d29f0b367ab9.webp",
+    "thumb": "/assets/images/d29f0b367ab9-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 210448
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610282261ff29.png",
+    "path": "/assets/images/a2337e093701.webp",
+    "thumb": "/assets/images/a2337e093701-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 147422
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028233eb2fe.png",
+    "path": "/assets/images/b1ea56c0d112.webp",
+    "thumb": "/assets/images/b1ea56c0d112-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 143554
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028242bb415.png",
+    "path": "/assets/images/7db921009ff5.webp",
+    "thumb": "/assets/images/7db921009ff5-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 141862
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610282516c402.png",
+    "path": "/assets/images/c030684e529c.webp",
+    "thumb": "/assets/images/c030684e529c-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 135376
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610282667e7d6.jpg",
+    "path": "/assets/images/09e155d213a4.webp",
+    "thumb": "/assets/images/09e155d213a4-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 128626
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610282796176b.png",
+    "path": "/assets/images/3c1385de3115.webp",
+    "thumb": "/assets/images/3c1385de3115-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 66046
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028287d9b04.png",
+    "path": "/assets/images/56ea81c6c4a9.webp",
+    "thumb": "/assets/images/56ea81c6c4a9-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 73380
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028299471b9.png",
+    "path": "/assets/images/a566631c226d.webp",
+    "thumb": "/assets/images/a566631c226d-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 62456
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610282e4e6981.png",
+    "path": "/assets/images/eedaa008ea7e.webp",
+    "thumb": "/assets/images/eedaa008ea7e-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 228198
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102835b5eab7.png",
+    "path": "/assets/images/01b0caa9409e.webp",
+    "thumb": "/assets/images/01b0caa9409e-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 221548
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610282f5f2761.png",
+    "path": "/assets/images/d4f18dc24484.webp",
+    "thumb": "/assets/images/d4f18dc24484-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 149770
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102832a03893.png",
+    "path": "/assets/images/c5f6156694c6.webp",
+    "thumb": "/assets/images/c5f6156694c6-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 173030
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102833d91680.png",
+    "path": "/assets/images/a3e3d9cccf81.webp",
+    "thumb": "/assets/images/a3e3d9cccf81-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 125220
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610283a15ae38.png",
+    "path": "/assets/images/d3c60ee97e3f.webp",
+    "thumb": "/assets/images/d3c60ee97e3f-thumb.webp",
+    "width": 1400,
+    "height": 907,
+    "bytes": 149572
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618a9bb17f6c8.jpg",
+    "path": "/assets/images/a7d0b09d1fbd.webp",
+    "thumb": "/assets/images/a7d0b09d1fbd-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 250778
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b48bd671d2.jpg",
+    "path": "/assets/images/acde15b51d82.webp",
+    "thumb": "/assets/images/acde15b51d82-thumb.webp",
+    "width": 1400,
+    "height": 934,
+    "bytes": 208032
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b48c534ad5.jpg",
+    "path": "/assets/images/85408e703f70.webp",
+    "thumb": "/assets/images/85408e703f70-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 254270
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b48cddf2e5.jpg",
+    "path": "/assets/images/0abdfe5b856f.webp",
+    "thumb": "/assets/images/0abdfe5b856f-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 303508
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b48d5dc73e.jpg",
+    "path": "/assets/images/94df4139c312.webp",
+    "thumb": "/assets/images/94df4139c312-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 197338
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b48ddabde8.jpg",
+    "path": "/assets/images/b9b8d6730d99.webp",
+    "thumb": "/assets/images/b9b8d6730d99-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 289024
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b48e82eb28.jpg",
+    "path": "/assets/images/3e332b9a1fcf.webp",
+    "thumb": "/assets/images/3e332b9a1fcf-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 72936
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618a9c29c8a64.png",
+    "path": "/assets/images/3ab0b20d9cde.webp",
+    "thumb": "/assets/images/3ab0b20d9cde-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 285678
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a4fe0a338.png",
+    "path": "/assets/images/11317d6c3a71.webp",
+    "thumb": "/assets/images/11317d6c3a71-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 204144
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a557a44f4.png",
+    "path": "/assets/images/34041b2ab628.webp",
+    "thumb": "/assets/images/34041b2ab628-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 212072
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a5aa18641.png",
+    "path": "/assets/images/07402cdd48c8.webp",
+    "thumb": "/assets/images/07402cdd48c8-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 232800
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a5fae012c.png",
+    "path": "/assets/images/9f65c6eac1b6.webp",
+    "thumb": "/assets/images/9f65c6eac1b6-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 200754
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a64dcef47.png",
+    "path": "/assets/images/14118d53e825.webp",
+    "thumb": "/assets/images/14118d53e825-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 180468
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a6a25a6b0.png",
+    "path": "/assets/images/51a2d240e9a8.webp",
+    "thumb": "/assets/images/51a2d240e9a8-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 172114
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a6f1e52b3.png",
+    "path": "/assets/images/46b5c2cb57fe.webp",
+    "thumb": "/assets/images/46b5c2cb57fe-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 195020
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a73ea9270.png",
+    "path": "/assets/images/bac0a2df1793.webp",
+    "thumb": "/assets/images/bac0a2df1793-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 229142
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a78cb55a3.png",
+    "path": "/assets/images/d38e06b4ad34.webp",
+    "thumb": "/assets/images/d38e06b4ad34-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 223876
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102a7f3afbd5.png",
+    "path": "/assets/images/3e83f25b4e60.webp",
+    "thumb": "/assets/images/3e83f25b4e60-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 270684
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b46332d5cc.jpg",
+    "path": "/assets/images/14f5f62ab681.webp",
+    "thumb": "/assets/images/14f5f62ab681-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 306640
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b46f73f76c.jpg",
+    "path": "/assets/images/ab44262c931e.webp",
+    "thumb": "/assets/images/ab44262c931e-thumb.webp",
+    "width": 1400,
+    "height": 735,
+    "bytes": 175028
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b46ce9dc34.jpg",
+    "path": "/assets/images/60e03f99d82d.webp",
+    "thumb": "/assets/images/60e03f99d82d-thumb.webp",
+    "width": 1400,
+    "height": 935,
+    "bytes": 211154
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b46ddc440d.jpg",
+    "path": "/assets/images/5ffddd5c6de4.webp",
+    "thumb": "/assets/images/5ffddd5c6de4-thumb.webp",
+    "width": 1400,
+    "height": 935,
+    "bytes": 211272
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b46e60911e.jpg",
+    "path": "/assets/images/318cd1f703f7.webp",
+    "thumb": "/assets/images/318cd1f703f7-thumb.webp",
+    "width": 1400,
+    "height": 935,
+    "bytes": 207266
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b46efa0af9.jpg",
+    "path": "/assets/images/9578eab91b3f.webp",
+    "thumb": "/assets/images/9578eab91b3f-thumb.webp",
+    "width": 1400,
+    "height": 936,
+    "bytes": 243786
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b4702b35db.jpg",
+    "path": "/assets/images/f28b409940ce.webp",
+    "thumb": "/assets/images/f28b409940ce-thumb.webp",
+    "width": 1400,
+    "height": 935,
+    "bytes": 201480
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b470b82c88.jpg",
+    "path": "/assets/images/63f84d38b8d3.webp",
+    "thumb": "/assets/images/63f84d38b8d3-thumb.webp",
+    "width": 1400,
+    "height": 935,
+    "bytes": 121700
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609af2fbde3f9.jpg",
+    "path": "/assets/images/daf37ff11400.webp",
+    "thumb": "/assets/images/daf37ff11400-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 252838
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2b552bf0f.jpg",
+    "path": "/assets/images/5a0e495cc312.webp",
+    "thumb": "/assets/images/5a0e495cc312-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 231562
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2b63a6291.jpg",
+    "path": "/assets/images/146a791a2a1b.webp",
+    "thumb": "/assets/images/146a791a2a1b-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 194138
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2b6a95018.jpg",
+    "path": "/assets/images/216d9cd34af4.webp",
+    "thumb": "/assets/images/216d9cd34af4-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 195030
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2b718b149.jpg",
+    "path": "/assets/images/f4a7e6d5ec44.webp",
+    "thumb": "/assets/images/f4a7e6d5ec44-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 138244
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2b7a4f7f6.jpg",
+    "path": "/assets/images/e42d968707ee.webp",
+    "thumb": "/assets/images/e42d968707ee-thumb.webp",
+    "width": 1400,
+    "height": 932,
+    "bytes": 129360
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609aefafeae2b.jpg",
+    "path": "/assets/images/2675fc2b067b.webp",
+    "thumb": "/assets/images/2675fc2b067b-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 75592
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aff42dac16.jpg",
+    "path": "/assets/images/9ed7273397ad.webp",
+    "thumb": "/assets/images/9ed7273397ad-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 156130
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aff4b9c52f.jpg",
+    "path": "/assets/images/425ae598bb35.webp",
+    "thumb": "/assets/images/425ae598bb35-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 77076
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aff60a359c.jpg",
+    "path": "/assets/images/1cabb81c0249.webp",
+    "thumb": "/assets/images/1cabb81c0249-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 49150
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aff6bcabdd.jpg",
+    "path": "/assets/images/83472b199462.webp",
+    "thumb": "/assets/images/83472b199462-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 101550
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aff7cb9a75.jpg",
+    "path": "/assets/images/626e34e8a532.webp",
+    "thumb": "/assets/images/626e34e8a532-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 159998
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aff8c3628b.jpg",
+    "path": "/assets/images/01c18e44b035.webp",
+    "thumb": "/assets/images/01c18e44b035-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 104450
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609aff9ef3885.jpg",
+    "path": "/assets/images/eab39506ffd7.webp",
+    "thumb": "/assets/images/eab39506ffd7-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 53784
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609affbbbfc02.jpg",
+    "path": "/assets/images/a85f42170244.webp",
+    "thumb": "/assets/images/a85f42170244-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 119068
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609af27d0963d.jpg",
+    "path": "/assets/images/ee88df66f8b6.webp",
+    "thumb": "/assets/images/ee88df66f8b6-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 137976
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b009f9320b.jpg",
+    "path": "/assets/images/21497a2c91bd.webp",
+    "thumb": "/assets/images/21497a2c91bd-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 117192
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b00a8d3d2f.jpg",
+    "path": "/assets/images/4605d0bc97c7.webp",
+    "thumb": "/assets/images/4605d0bc97c7-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 98624
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b00b07c7e6.jpg",
+    "path": "/assets/images/4922ae3a1c03.webp",
+    "thumb": "/assets/images/4922ae3a1c03-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 144808
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b00ba09466.jpg",
+    "path": "/assets/images/8a85f3850ca2.webp",
+    "thumb": "/assets/images/8a85f3850ca2-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 108322
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b00c573485.jpg",
+    "path": "/assets/images/0adce6f24167.webp",
+    "thumb": "/assets/images/0adce6f24167-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 78732
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b00d249888.jpg",
+    "path": "/assets/images/494a2572b169.webp",
+    "thumb": "/assets/images/494a2572b169-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 192500
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b00dab70c5.jpg",
+    "path": "/assets/images/8291e8756ec4.webp",
+    "thumb": "/assets/images/8291e8756ec4-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 213042
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b00e6d1cd2.jpg",
+    "path": "/assets/images/cb157df012e0.webp",
+    "thumb": "/assets/images/cb157df012e0-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 108156
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618aa04dce44b.jpg",
+    "path": "/assets/images/893ec7eae0f6.webp",
+    "thumb": "/assets/images/893ec7eae0f6-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 130814
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609afbc0ae268.jpg",
+    "path": "/assets/images/f1b4f645cc41.webp",
+    "thumb": "/assets/images/f1b4f645cc41-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 164650
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609afbcd88616.jpg",
+    "path": "/assets/images/c0ee601138a2.webp",
+    "thumb": "/assets/images/c0ee601138a2-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 137818
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609afbd699337.jpg",
+    "path": "/assets/images/0528c246c4e2.webp",
+    "thumb": "/assets/images/0528c246c4e2-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 204244
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609afdeeb42e7.jpg",
+    "path": "/assets/images/d65967d61ed9.webp",
+    "thumb": "/assets/images/d65967d61ed9-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 223046
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609afe043b748.jpg",
+    "path": "/assets/images/ec50ee097b66.webp",
+    "thumb": "/assets/images/ec50ee097b66-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 119454
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609afe0d6dfed.jpg",
+    "path": "/assets/images/d2c918ebd621.webp",
+    "thumb": "/assets/images/d2c918ebd621-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 131052
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609afe2134e61.jpg",
+    "path": "/assets/images/8106d4eca13a.webp",
+    "thumb": "/assets/images/8106d4eca13a-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 173086
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609afe2a02f52.jpg",
+    "path": "/assets/images/cb2808c56c9b.webp",
+    "thumb": "/assets/images/cb2808c56c9b-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 160132
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild609af2c2b54ef.jpg",
+    "path": "/assets/images/2bcab5a1fd68.webp",
+    "thumb": "/assets/images/2bcab5a1fd68-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 223026
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b023778cc7.jpg",
+    "path": "/assets/images/74b9752061c6.webp",
+    "thumb": "/assets/images/74b9752061c6-thumb.webp",
+    "width": 1400,
+    "height": 941,
+    "bytes": 119582
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b024478cd3.jpg",
+    "path": "/assets/images/188c3abbea0f.webp",
+    "thumb": "/assets/images/188c3abbea0f-thumb.webp",
+    "width": 1400,
+    "height": 941,
+    "bytes": 129502
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b025143e9e.jpg",
+    "path": "/assets/images/c6b5a76b7057.webp",
+    "thumb": "/assets/images/c6b5a76b7057-thumb.webp",
+    "width": 1400,
+    "height": 941,
+    "bytes": 93032
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b0262a58b0.jpg",
+    "path": "/assets/images/a5b72511a0e1.webp",
+    "thumb": "/assets/images/a5b72511a0e1-thumb.webp",
+    "width": 1400,
+    "height": 941,
+    "bytes": 64532
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b027724616.jpg",
+    "path": "/assets/images/bb91ba48b954.webp",
+    "thumb": "/assets/images/bb91ba48b954-thumb.webp",
+    "width": 1400,
+    "height": 941,
+    "bytes": 88502
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b02911cc18.jpg",
+    "path": "/assets/images/cea4fdbc71ae.webp",
+    "thumb": "/assets/images/cea4fdbc71ae-thumb.webp",
+    "width": 1400,
+    "height": 941,
+    "bytes": 204230
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b02ad6c7aa.jpg",
+    "path": "/assets/images/88ac2283d9da.webp",
+    "thumb": "/assets/images/88ac2283d9da-thumb.webp",
+    "width": 1400,
+    "height": 941,
+    "bytes": 169688
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic609b02c1ded86.jpg",
+    "path": "/assets/images/32318c58891a.webp",
+    "thumb": "/assets/images/32318c58891a-thumb.webp",
+    "width": 1400,
+    "height": 941,
+    "bytes": 119144
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6101426f379e4.png",
+    "path": "/assets/images/1f959e012e10.webp",
+    "thumb": "/assets/images/1f959e012e10-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 203628
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6101386575a11.jpg",
+    "path": "/assets/images/fa087627c9fa.webp",
+    "thumb": "/assets/images/fa087627c9fa-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 124760
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2c09413dc.jpg",
+    "path": "/assets/images/9609cfd7fad7.webp",
+    "thumb": "/assets/images/9609cfd7fad7-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 184812
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2c27ae2bd.jpg",
+    "path": "/assets/images/b98a3f96c8e9.webp",
+    "thumb": "/assets/images/b98a3f96c8e9-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 166318
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2ca591d0a.jpg",
+    "path": "/assets/images/983a767ecbc5.webp",
+    "thumb": "/assets/images/983a767ecbc5-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 250048
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2cd0c1628.jpg",
+    "path": "/assets/images/3cb6491b19b4.webp",
+    "thumb": "/assets/images/3cb6491b19b4-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 163702
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2ce709bc6.jpg",
+    "path": "/assets/images/3df646f8742b.webp",
+    "thumb": "/assets/images/3df646f8742b-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 216204
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618a9033375a8.jpg",
+    "path": "/assets/images/9083b2d300d9.webp",
+    "thumb": "/assets/images/9083b2d300d9-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 199552
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618a9059d4c8a.jpg",
+    "path": "/assets/images/a523fe3443b7.webp",
+    "thumb": "/assets/images/a523fe3443b7-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 134818
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618a90620aa65.jpg",
+    "path": "/assets/images/01ddd768d8c6.webp",
+    "thumb": "/assets/images/01ddd768d8c6-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 176264
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618a906bea234.jpg",
+    "path": "/assets/images/3594cdb6d2b8.webp",
+    "thumb": "/assets/images/3594cdb6d2b8-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 176538
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618a907401c27.jpg",
+    "path": "/assets/images/9db2269c2b66.webp",
+    "thumb": "/assets/images/9db2269c2b66-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 249786
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618a907ae5fcd.jpg",
+    "path": "/assets/images/ed464769dfd1.webp",
+    "thumb": "/assets/images/ed464769dfd1-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 214216
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild61117057eac41.png",
+    "path": "/assets/images/38bc37d5fcab.webp",
+    "thumb": "/assets/images/38bc37d5fcab-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 207296
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610161d32ab79.jpg",
+    "path": "/assets/images/24de7878aef4.webp",
+    "thumb": "/assets/images/24de7878aef4-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 206026
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610161df1f2e4.jpg",
+    "path": "/assets/images/adc2dc5a1f52.webp",
+    "thumb": "/assets/images/adc2dc5a1f52-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 231736
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610161ebb2862.jpg",
+    "path": "/assets/images/38dca4da0230.webp",
+    "thumb": "/assets/images/38dca4da0230-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 144246
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610161f7662ec.jpg",
+    "path": "/assets/images/cd47933ceb4e.webp",
+    "thumb": "/assets/images/cd47933ceb4e-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 175890
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6101620c7c47f.jpg",
+    "path": "/assets/images/5d34ac60b879.webp",
+    "thumb": "/assets/images/5d34ac60b879-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 196358
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6101621cc1013.jpg",
+    "path": "/assets/images/1a8d5665449b.webp",
+    "thumb": "/assets/images/1a8d5665449b-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 147956
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610162276659c.jpg",
+    "path": "/assets/images/717340646bc3.webp",
+    "thumb": "/assets/images/717340646bc3-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 93182
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61016235b18b3.jpg",
+    "path": "/assets/images/bb4ebbc4fb4e.webp",
+    "thumb": "/assets/images/bb4ebbc4fb4e-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 106882
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild61028f23a2702.png",
+    "path": "/assets/images/692403442a32.webp",
+    "thumb": "/assets/images/692403442a32-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 161896
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028c9406810.jpg",
+    "path": "/assets/images/7450f0b533b8.webp",
+    "thumb": "/assets/images/7450f0b533b8-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 75352
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028cbf25e39.png",
+    "path": "/assets/images/5462ca6aa58e.webp",
+    "thumb": "/assets/images/5462ca6aa58e-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 107634
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028cd7843d9.jpg",
+    "path": "/assets/images/6d15a5dbf958.webp",
+    "thumb": "/assets/images/6d15a5dbf958-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 110584
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028cf45033f.jpg",
+    "path": "/assets/images/cdd71ef27a26.webp",
+    "thumb": "/assets/images/cdd71ef27a26-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 118720
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028d1101987.png",
+    "path": "/assets/images/146340f12b2a.webp",
+    "thumb": "/assets/images/146340f12b2a-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 143636
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028d326e52e.png",
+    "path": "/assets/images/4d0a5d5389d5.webp",
+    "thumb": "/assets/images/4d0a5d5389d5-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 104178
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028d4870e9d.png",
+    "path": "/assets/images/ac1ced20a9e6.webp",
+    "thumb": "/assets/images/ac1ced20a9e6-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 117030
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61028d668ecce.png",
+    "path": "/assets/images/ced7a291029b.webp",
+    "thumb": "/assets/images/ced7a291029b-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 113754
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b37af660d0.jpg",
+    "path": "/assets/images/6b1c84ac6016.webp",
+    "thumb": "/assets/images/6b1c84ac6016-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 142644
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b374115060.jpg",
+    "path": "/assets/images/c59dfa6d352a.webp",
+    "thumb": "/assets/images/c59dfa6d352a-thumb.webp",
+    "width": 1400,
+    "height": 677,
+    "bytes": 148080
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b374896b09.jpg",
+    "path": "/assets/images/94e6e8cbeb69.webp",
+    "thumb": "/assets/images/94e6e8cbeb69-thumb.webp",
+    "width": 1400,
+    "height": 1085,
+    "bytes": 149584
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b375014b46.jpg",
+    "path": "/assets/images/6072b3a3f388.webp",
+    "thumb": "/assets/images/6072b3a3f388-thumb.webp",
+    "width": 1400,
+    "height": 1042,
+    "bytes": 145738
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3757a6d32.jpg",
+    "path": "/assets/images/027ab4d77427.webp",
+    "thumb": "/assets/images/027ab4d77427-thumb.webp",
+    "width": 1400,
+    "height": 1192,
+    "bytes": 165302
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b375f5265d.jpg",
+    "path": "/assets/images/23c380ead44c.webp",
+    "thumb": "/assets/images/23c380ead44c-thumb.webp",
+    "width": 1400,
+    "height": 1243,
+    "bytes": 202566
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618a82892de58.jpg",
+    "path": "/assets/images/f875ec64e809.webp",
+    "thumb": "/assets/images/f875ec64e809-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 200466
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b37066b0ba.jpg",
+    "path": "/assets/images/2477c807bbfc.webp",
+    "thumb": "/assets/images/2477c807bbfc-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 172100
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3718e7ec8.jpg",
+    "path": "/assets/images/300d41f3f3cf.webp",
+    "thumb": "/assets/images/300d41f3f3cf-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 162506
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618d51cab277f.jpg",
+    "path": "/assets/images/6645e8145b35.webp",
+    "thumb": "/assets/images/6645e8145b35-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 280044
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d520b9f371.jpg",
+    "path": "/assets/images/2c5e7e269db7.webp",
+    "thumb": "/assets/images/2c5e7e269db7-thumb.webp",
+    "width": 1400,
+    "height": 899,
+    "bytes": 150990
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d52144b702.jpg",
+    "path": "/assets/images/9c2928401ebf.webp",
+    "thumb": "/assets/images/9c2928401ebf-thumb.webp",
+    "width": 1400,
+    "height": 900,
+    "bytes": 147286
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d521d96c9b.jpg",
+    "path": "/assets/images/aabe19fc92a1.webp",
+    "thumb": "/assets/images/aabe19fc92a1-thumb.webp",
+    "width": 1400,
+    "height": 901,
+    "bytes": 190990
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d52273097b.jpg",
+    "path": "/assets/images/17a9a95e1649.webp",
+    "thumb": "/assets/images/17a9a95e1649-thumb.webp",
+    "width": 1400,
+    "height": 901,
+    "bytes": 164414
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d522fab7a4.jpg",
+    "path": "/assets/images/15e4d9158f71.webp",
+    "thumb": "/assets/images/15e4d9158f71-thumb.webp",
+    "width": 1400,
+    "height": 901,
+    "bytes": 198180
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d52375f32e.jpg",
+    "path": "/assets/images/3ac5fc6faaa8.webp",
+    "thumb": "/assets/images/3ac5fc6faaa8-thumb.webp",
+    "width": 1400,
+    "height": 901,
+    "bytes": 177696
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d524114ed0.jpg",
+    "path": "/assets/images/d081c7b6759d.webp",
+    "thumb": "/assets/images/d081c7b6759d-thumb.webp",
+    "width": 1400,
+    "height": 901,
+    "bytes": 254006
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618d5249244c0.jpg",
+    "path": "/assets/images/b2315ed28f35.webp",
+    "thumb": "/assets/images/b2315ed28f35-thumb.webp",
+    "width": 1400,
+    "height": 901,
+    "bytes": 221634
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild610146fc40d95.jpg",
+    "path": "/assets/images/fb0ddcb7f268.webp",
+    "thumb": "/assets/images/fb0ddcb7f268-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 160288
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610146115b3a6.jpg",
+    "path": "/assets/images/1083927b8363.webp",
+    "thumb": "/assets/images/1083927b8363-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 124868
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6101461abf9a1.jpg",
+    "path": "/assets/images/2caf9cea2c3a.webp",
+    "thumb": "/assets/images/2caf9cea2c3a-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 81184
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic610146234d525.jpg",
+    "path": "/assets/images/be684df38f44.webp",
+    "thumb": "/assets/images/be684df38f44-thumb.webp",
+    "width": 1400,
+    "height": 1000,
+    "bytes": 37162
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6101462e0644f.jpg",
+    "path": "/assets/images/90c28d24f955.webp",
+    "thumb": "/assets/images/90c28d24f955-thumb.webp",
+    "width": 1400,
+    "height": 1164,
+    "bytes": 148098
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618b868784f63.png",
+    "path": "/assets/images/b48d3da80523.webp",
+    "thumb": "/assets/images/b48d3da80523-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 94294
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029a8a8ad3f.png",
+    "path": "/assets/images/e0ee6c1c3006.webp",
+    "thumb": "/assets/images/e0ee6c1c3006-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 105976
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029aa053317.png",
+    "path": "/assets/images/c3ec133b7bf4.webp",
+    "thumb": "/assets/images/c3ec133b7bf4-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 196426
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029b2bc1e90.png",
+    "path": "/assets/images/39dd684691b0.webp",
+    "thumb": "/assets/images/39dd684691b0-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 161822
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029ae98013f.png",
+    "path": "/assets/images/ca3421ceea1f.webp",
+    "thumb": "/assets/images/ca3421ceea1f-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 243662
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029a6ae5d7a.png",
+    "path": "/assets/images/fe7cc3dadcb4.webp",
+    "thumb": "/assets/images/fe7cc3dadcb4-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 85966
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029b751eb9a.png",
+    "path": "/assets/images/069c0ad0e07c.webp",
+    "thumb": "/assets/images/069c0ad0e07c-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 77640
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029b8b6c4de.png",
+    "path": "/assets/images/aa4f07b3f0fc.webp",
+    "thumb": "/assets/images/aa4f07b3f0fc-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 94768
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029bb64dc7d.png",
+    "path": "/assets/images/6b88d6eca62e.webp",
+    "thumb": "/assets/images/6b88d6eca62e-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 105574
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029abb5cd2f.png",
+    "path": "/assets/images/1cb4f28a8a1e.webp",
+    "thumb": "/assets/images/1cb4f28a8a1e-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 158724
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029afe40530.png",
+    "path": "/assets/images/70018ff69c26.webp",
+    "thumb": "/assets/images/70018ff69c26-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 66604
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029b116eedd.png",
+    "path": "/assets/images/12e185048471.webp",
+    "thumb": "/assets/images/12e185048471-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 54360
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029b4346b0d.png",
+    "path": "/assets/images/4dae73c87a28.webp",
+    "thumb": "/assets/images/4dae73c87a28-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 116278
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029b612174f.png",
+    "path": "/assets/images/2bc51efab05b.webp",
+    "thumb": "/assets/images/2bc51efab05b-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 88022
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic61029ba45ab25.png",
+    "path": "/assets/images/10cdeaeec1a4.webp",
+    "thumb": "/assets/images/10cdeaeec1a4-thumb.webp",
+    "width": 1400,
+    "height": 999,
+    "bytes": 112730
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild6102b5457517f.png",
+    "path": "/assets/images/2f9c7cf702f8.webp",
+    "thumb": "/assets/images/2f9c7cf702f8-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 131838
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102abed9173b.png",
+    "path": "/assets/images/fbad291641ae.webp",
+    "thumb": "/assets/images/fbad291641ae-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 91414
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102ac3f63e39.png",
+    "path": "/assets/images/a59bc76178e0.webp",
+    "thumb": "/assets/images/a59bc76178e0-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 108150
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102aca860174.png",
+    "path": "/assets/images/a5b18bb1602f.webp",
+    "thumb": "/assets/images/a5b18bb1602f-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 107954
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102acea7bd71.png",
+    "path": "/assets/images/69b77308b772.webp",
+    "thumb": "/assets/images/69b77308b772-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 72750
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102ad71f18eb.png",
+    "path": "/assets/images/312399b32ae2.webp",
+    "thumb": "/assets/images/312399b32ae2-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 127710
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102ae0272f97.png",
+    "path": "/assets/images/1e35ec68fabb.webp",
+    "thumb": "/assets/images/1e35ec68fabb-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 257488
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102ae235cb9a.png",
+    "path": "/assets/images/d8c7a987d5f5.webp",
+    "thumb": "/assets/images/d8c7a987d5f5-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 284742
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102aebe51376.png",
+    "path": "/assets/images/bca0a28c9a10.webp",
+    "thumb": "/assets/images/bca0a28c9a10-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 166832
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic6102af27dc1b8.png",
+    "path": "/assets/images/86480b74f5ea.webp",
+    "thumb": "/assets/images/86480b74f5ea-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 106024
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613a2cbc533ee.jpg",
+    "path": "/assets/images/f889b28ec3e2.webp",
+    "thumb": "/assets/images/f889b28ec3e2-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 79938
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a288cc06b3.jpg",
+    "path": "/assets/images/5283809d3951.webp",
+    "thumb": "/assets/images/5283809d3951-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 73934
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a28afdb080.jpg",
+    "path": "/assets/images/418fa171fa42.webp",
+    "thumb": "/assets/images/418fa171fa42-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 68274
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a28dbd7536.jpg",
+    "path": "/assets/images/d07bb4ad6738.webp",
+    "thumb": "/assets/images/d07bb4ad6738-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 82366
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a290a7aa70.jpg",
+    "path": "/assets/images/cb9b838a96a0.webp",
+    "thumb": "/assets/images/cb9b838a96a0-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 99900
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a292619917.jpg",
+    "path": "/assets/images/2c4185b63276.webp",
+    "thumb": "/assets/images/2c4185b63276-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 81060
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a296fe336e.jpg",
+    "path": "/assets/images/fe28e127d71a.webp",
+    "thumb": "/assets/images/fe28e127d71a-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 94596
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a299503df0.jpg",
+    "path": "/assets/images/cd6c1938fff6.webp",
+    "thumb": "/assets/images/cd6c1938fff6-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 138948
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a29b2e1716.jpg",
+    "path": "/assets/images/55366e830d21.webp",
+    "thumb": "/assets/images/55366e830d21-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 67984
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a29d502ca8.jpg",
+    "path": "/assets/images/bfa9d52facca.webp",
+    "thumb": "/assets/images/bfa9d52facca-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 82776
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a29f8abeb0.jpg",
+    "path": "/assets/images/6ff2a1639c26.webp",
+    "thumb": "/assets/images/6ff2a1639c26-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 125338
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2a1c23910.jpg",
+    "path": "/assets/images/c1e87b675cfb.webp",
+    "thumb": "/assets/images/c1e87b675cfb-thumb.webp",
+    "width": 1400,
+    "height": 931,
+    "bytes": 111076
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2a3d45cae.jpg",
+    "path": "/assets/images/849e09dc183e.webp",
+    "thumb": "/assets/images/849e09dc183e-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 74510
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2a59b0c47.jpg",
+    "path": "/assets/images/0788bb22fe68.webp",
+    "thumb": "/assets/images/0788bb22fe68-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 49334
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2a793764d.jpg",
+    "path": "/assets/images/2b223dd9ee15.webp",
+    "thumb": "/assets/images/2b223dd9ee15-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 49300
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b248d6a6c3.jpg",
+    "path": "/assets/images/0edda44cd2fd.webp",
+    "thumb": "/assets/images/0edda44cd2fd-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 177504
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b25806530b.jpg",
+    "path": "/assets/images/942908e1e763.webp",
+    "thumb": "/assets/images/942908e1e763-thumb.webp",
+    "width": 1400,
+    "height": 978,
+    "bytes": 73030
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2588834d3.jpg",
+    "path": "/assets/images/506f5af3336e.webp",
+    "thumb": "/assets/images/506f5af3336e-thumb.webp",
+    "width": 1400,
+    "height": 978,
+    "bytes": 60184
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b25915c50e.jpg",
+    "path": "/assets/images/0e44378b3d89.webp",
+    "thumb": "/assets/images/0e44378b3d89-thumb.webp",
+    "width": 1400,
+    "height": 978,
+    "bytes": 49968
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2599cf9c2.jpg",
+    "path": "/assets/images/7a63ab34e656.webp",
+    "thumb": "/assets/images/7a63ab34e656-thumb.webp",
+    "width": 1400,
+    "height": 978,
+    "bytes": 134302
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b25a85527c.jpg",
+    "path": "/assets/images/b409e8e59e19.webp",
+    "thumb": "/assets/images/b409e8e59e19-thumb.webp",
+    "width": 1400,
+    "height": 978,
+    "bytes": 80794
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b25b21cc3b.jpg",
+    "path": "/assets/images/9cf08d76076f.webp",
+    "thumb": "/assets/images/9cf08d76076f-thumb.webp",
+    "width": 1400,
+    "height": 978,
+    "bytes": 99582
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b25bd08279.jpg",
+    "path": "/assets/images/a79dfd5f1680.webp",
+    "thumb": "/assets/images/a79dfd5f1680-thumb.webp",
+    "width": 1400,
+    "height": 978,
+    "bytes": 117394
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618b89df1cf0e.jpg",
+    "path": "/assets/images/0e914cf85714.webp",
+    "thumb": "/assets/images/0e914cf85714-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 87232
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2d3aeb01b.jpg",
+    "path": "/assets/images/edae37233406.webp",
+    "thumb": "/assets/images/edae37233406-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 193048
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2d8ef30db.jpg",
+    "path": "/assets/images/8b01e74a91d2.webp",
+    "thumb": "/assets/images/8b01e74a91d2-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 65106
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2db604041.jpg",
+    "path": "/assets/images/1406c37c9085.webp",
+    "thumb": "/assets/images/1406c37c9085-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 171816
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2de7111f1.jpg",
+    "path": "/assets/images/956e56604099.webp",
+    "thumb": "/assets/images/956e56604099-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 178840
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2dff0cfba.jpg",
+    "path": "/assets/images/df219b14d2f9.webp",
+    "thumb": "/assets/images/df219b14d2f9-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 100946
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2e2fbe89f.jpg",
+    "path": "/assets/images/791c0fb097ae.webp",
+    "thumb": "/assets/images/791c0fb097ae-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 28606
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2e44980ea.jpg",
+    "path": "/assets/images/65e10ed5ba93.webp",
+    "thumb": "/assets/images/65e10ed5ba93-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 20262
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2e65c56cf.jpg",
+    "path": "/assets/images/56b83dc9b90b.webp",
+    "thumb": "/assets/images/56b83dc9b90b-thumb.webp",
+    "width": 1400,
+    "height": 930,
+    "bytes": 142446
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618b8b3bbe6ba.jpg",
+    "path": "/assets/images/082e8bbdeae2.webp",
+    "thumb": "/assets/images/082e8bbdeae2-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 115006
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1b3dbb0a4.jpg",
+    "path": "/assets/images/c8f849b9a3f6.webp",
+    "thumb": "/assets/images/c8f849b9a3f6-thumb.webp",
+    "width": 1400,
+    "height": 1079,
+    "bytes": 75398
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1b487d0ed.jpg",
+    "path": "/assets/images/cf5a7ee13036.webp",
+    "thumb": "/assets/images/cf5a7ee13036-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 66272
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1b554ed48.jpg",
+    "path": "/assets/images/d57ef73157b6.webp",
+    "thumb": "/assets/images/d57ef73157b6-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 131240
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1b71251eb.jpg",
+    "path": "/assets/images/0562eb4a0710.webp",
+    "thumb": "/assets/images/0562eb4a0710-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 139332
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1b7c42fd8.jpg",
+    "path": "/assets/images/6aa5669e2ede.webp",
+    "thumb": "/assets/images/6aa5669e2ede-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 188508
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1b874de14.jpg",
+    "path": "/assets/images/7118e7697436.webp",
+    "thumb": "/assets/images/7118e7697436-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 181324
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1b951ed6f.jpg",
+    "path": "/assets/images/967af6266d88.webp",
+    "thumb": "/assets/images/967af6266d88-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 135494
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1b9f13a5a.jpg",
+    "path": "/assets/images/3b1e25dad2c0.webp",
+    "thumb": "/assets/images/3b1e25dad2c0-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 111980
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1ba7e0ee8.jpg",
+    "path": "/assets/images/f8c3e4c81a37.webp",
+    "thumb": "/assets/images/f8c3e4c81a37-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 93256
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b1f5acfba3.jpg",
+    "path": "/assets/images/b3c7e898e00a.webp",
+    "thumb": "/assets/images/b3c7e898e00a-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 135552
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1dcd8baec.jpg",
+    "path": "/assets/images/88baf212329c.webp",
+    "thumb": "/assets/images/88baf212329c-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 100750
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1dd55a450.jpg",
+    "path": "/assets/images/ceb79181acf9.webp",
+    "thumb": "/assets/images/ceb79181acf9-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 122052
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1ddd82264.jpg",
+    "path": "/assets/images/41a4209d2bc3.webp",
+    "thumb": "/assets/images/41a4209d2bc3-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 101202
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1de51b769.jpg",
+    "path": "/assets/images/cf7ff1735d79.webp",
+    "thumb": "/assets/images/cf7ff1735d79-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 48896
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1deebb7c8.jpg",
+    "path": "/assets/images/8e3dc523e509.webp",
+    "thumb": "/assets/images/8e3dc523e509-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 101980
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1e013a99a.jpg",
+    "path": "/assets/images/11da7499e207.webp",
+    "thumb": "/assets/images/11da7499e207-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 101560
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b1e1f9cd21.jpg",
+    "path": "/assets/images/cd2355b4da2d.webp",
+    "thumb": "/assets/images/cd2355b4da2d-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 142318
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b2ed2dd230.jpg",
+    "path": "/assets/images/5ca4ec55a50b.webp",
+    "thumb": "/assets/images/5ca4ec55a50b-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 86752
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2f8ea0a1e.jpg",
+    "path": "/assets/images/ecca17585f35.webp",
+    "thumb": "/assets/images/ecca17585f35-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 340874
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2fa41e911.jpg",
+    "path": "/assets/images/5996d8984849.webp",
+    "thumb": "/assets/images/5996d8984849-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 370570
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2fb7ab60d.jpg",
+    "path": "/assets/images/70ea4190f5d7.webp",
+    "thumb": "/assets/images/70ea4190f5d7-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 87696
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b2fc8ef3cd.jpg",
+    "path": "/assets/images/4cbe1d49bc82.webp",
+    "thumb": "/assets/images/4cbe1d49bc82-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 69274
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b30fd87a54.jpg",
+    "path": "/assets/images/bcdab143cda3.webp",
+    "thumb": "/assets/images/bcdab143cda3-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 261626
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b318aa17ab.jpg",
+    "path": "/assets/images/dfc05192c321.webp",
+    "thumb": "/assets/images/dfc05192c321-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 172344
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3193bc046.jpg",
+    "path": "/assets/images/1592d92dbc42.webp",
+    "thumb": "/assets/images/1592d92dbc42-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 209170
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b34021e845.jpg",
+    "path": "/assets/images/2dc5b1cad832.webp",
+    "thumb": "/assets/images/2dc5b1cad832-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 231276
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b346117335.jpg",
+    "path": "/assets/images/0e9dd9b442b1.webp",
+    "thumb": "/assets/images/0e9dd9b442b1-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 142612
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b346b53576.jpg",
+    "path": "/assets/images/5a77d12c799b.webp",
+    "thumb": "/assets/images/5a77d12c799b-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 189184
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b38fcdaecf.jpg",
+    "path": "/assets/images/594357b64fd0.webp",
+    "thumb": "/assets/images/594357b64fd0-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 66526
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b3955726ce.jpg",
+    "path": "/assets/images/67245f1669f1.webp",
+    "thumb": "/assets/images/67245f1669f1-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 55558
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b395d8ea9f.jpg",
+    "path": "/assets/images/bcb6922a0930.webp",
+    "thumb": "/assets/images/bcb6922a0930-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 66114
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b43a2285dc.jpg",
+    "path": "/assets/images/403e68d4f3f8.webp",
+    "thumb": "/assets/images/403e68d4f3f8-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 68244
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b44189beee.jpg",
+    "path": "/assets/images/e57c6a644938.webp",
+    "thumb": "/assets/images/e57c6a644938-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 88990
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b4426ed146.jpg",
+    "path": "/assets/images/0e72efe6c1ee.webp",
+    "thumb": "/assets/images/0e72efe6c1ee-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 61996
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b443ec2601.jpg",
+    "path": "/assets/images/77522e75f368.webp",
+    "thumb": "/assets/images/77522e75f368-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 82882
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b444c08ecc.jpg",
+    "path": "/assets/images/f12d2c4e4315.webp",
+    "thumb": "/assets/images/f12d2c4e4315-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 62062
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b4456892cb.jpg",
+    "path": "/assets/images/15795bfdc7c1.webp",
+    "thumb": "/assets/images/15795bfdc7c1-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 42068
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b44607a461.jpg",
+    "path": "/assets/images/3b51dc0ebe61.webp",
+    "thumb": "/assets/images/3b51dc0ebe61-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 69780
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b448c55860.jpg",
+    "path": "/assets/images/328cc5bdda22.webp",
+    "thumb": "/assets/images/328cc5bdda22-thumb.webp",
+    "width": 1400,
+    "height": 932,
+    "bytes": 60708
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b52c7429b3.jpg",
+    "path": "/assets/images/788a445ff7db.webp",
+    "thumb": "/assets/images/788a445ff7db-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 64220
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b533aee42a.jpg",
+    "path": "/assets/images/aadede2dcd2c.webp",
+    "thumb": "/assets/images/aadede2dcd2c-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 52152
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b5344a118a.jpg",
+    "path": "/assets/images/e1948b39f6a1.webp",
+    "thumb": "/assets/images/e1948b39f6a1-thumb.webp",
+    "width": 1400,
+    "height": 1081,
+    "bytes": 65624
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild613b4a45a5566.jpg",
+    "path": "/assets/images/38b10386a144.webp",
+    "thumb": "/assets/images/38b10386a144-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 186680
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b4b8cc3d57.jpg",
+    "path": "/assets/images/acf8e103d669.webp",
+    "thumb": "/assets/images/acf8e103d669-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 74958
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b4b951f894.jpg",
+    "path": "/assets/images/fc61dbf9113e.webp",
+    "thumb": "/assets/images/fc61dbf9113e-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 152764
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b4ba3bee4c.jpg",
+    "path": "/assets/images/fef980caa19a.webp",
+    "thumb": "/assets/images/fef980caa19a-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 47190
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613b4bb0d6fe8.jpg",
+    "path": "/assets/images/5b105e7cd44e.webp",
+    "thumb": "/assets/images/5b105e7cd44e-thumb.webp",
+    "width": 1400,
+    "height": 932,
+    "bytes": 33400
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618a92276f9e6.jpg",
+    "path": "/assets/images/6874168751d3.webp",
+    "thumb": "/assets/images/6874168751d3-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 130136
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618a926252a29.jpg",
+    "path": "/assets/images/749f0b6b2d2f.webp",
+    "thumb": "/assets/images/749f0b6b2d2f-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 65106
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618a9269b12cf.jpg",
+    "path": "/assets/images/c5848a141206.webp",
+    "thumb": "/assets/images/c5848a141206-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 100390
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618a9271d38e0.jpg",
+    "path": "/assets/images/a0fa52b37c60.webp",
+    "thumb": "/assets/images/a0fa52b37c60-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 84044
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic618a92789860d.jpg",
+    "path": "/assets/images/adef0b661699.webp",
+    "thumb": "/assets/images/adef0b661699-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 63840
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618b8c6b7198c.jpg",
+    "path": "/assets/images/bdf508246d3c.webp",
+    "thumb": "/assets/images/bdf508246d3c-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 135512
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a3047a9a3c.jpg",
+    "path": "/assets/images/5c541d604a23.webp",
+    "thumb": "/assets/images/5c541d604a23-thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "bytes": 193492
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a305541a7a.jpg",
+    "path": "/assets/images/9b156095426a.webp",
+    "thumb": "/assets/images/9b156095426a-thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "bytes": 155724
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a306020da4.jpg",
+    "path": "/assets/images/c14e06d8e157.webp",
+    "thumb": "/assets/images/c14e06d8e157-thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "bytes": 248198
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a3069cbf85.jpg",
+    "path": "/assets/images/a8b4b7cf2e69.webp",
+    "thumb": "/assets/images/a8b4b7cf2e69-thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "bytes": 243386
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a30728e8fd.jpg",
+    "path": "/assets/images/3c8a7faef778.webp",
+    "thumb": "/assets/images/3c8a7faef778-thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "bytes": 98252
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a307a2260e.jpg",
+    "path": "/assets/images/94178f95548a.webp",
+    "thumb": "/assets/images/94178f95548a-thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "bytes": 116648
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a308253252.jpg",
+    "path": "/assets/images/1f5b76412bb2.webp",
+    "thumb": "/assets/images/1f5b76412bb2-thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "bytes": 111214
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a308ece842.jpg",
+    "path": "/assets/images/a00e1afeac1c.webp",
+    "thumb": "/assets/images/a00e1afeac1c-thumb.webp",
+    "width": 1400,
+    "height": 1050,
+    "bytes": 149278
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/bildsaetze/bildsatzbild618b8da6be317.jpg",
+    "path": "/assets/images/0604159ef8ac.webp",
+    "thumb": "/assets/images/0604159ef8ac-thumb.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 193170
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a247aa15cc.jpg",
+    "path": "/assets/images/115c343f66a9.webp",
+    "thumb": "/assets/images/115c343f66a9-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 141582
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a24983cc7a.jpg",
+    "path": "/assets/images/c2012f7dc079.webp",
+    "thumb": "/assets/images/c2012f7dc079-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 136512
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a24b3236c1.jpg",
+    "path": "/assets/images/b289b7d7570c.webp",
+    "thumb": "/assets/images/b289b7d7570c-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 74104
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a24ce51c33.jpg",
+    "path": "/assets/images/7152cf35c75d.webp",
+    "thumb": "/assets/images/7152cf35c75d-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 50774
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a24e02016c.jpg",
+    "path": "/assets/images/dcd52d3ce46b.webp",
+    "thumb": "/assets/images/dcd52d3ce46b-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 60890
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a24efed90e.jpg",
+    "path": "/assets/images/65cc423d0e95.webp",
+    "thumb": "/assets/images/65cc423d0e95-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 27614
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2503b65e4.jpg",
+    "path": "/assets/images/26bed94b7f9d.webp",
+    "thumb": "/assets/images/26bed94b7f9d-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 45662
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a25127cae2.jpg",
+    "path": "/assets/images/bdcff847065a.webp",
+    "thumb": "/assets/images/bdcff847065a-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 25976
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a252184599.jpg",
+    "path": "/assets/images/a0bdb7581923.webp",
+    "thumb": "/assets/images/a0bdb7581923-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 48178
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a252c83ffe.jpg",
+    "path": "/assets/images/a3621fd33dae.webp",
+    "thumb": "/assets/images/a3621fd33dae-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 106416
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a25e026ea7.jpg",
+    "path": "/assets/images/e174123d238d.webp",
+    "thumb": "/assets/images/e174123d238d-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 79084
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a253833989.jpg",
+    "path": "/assets/images/0a76105b6f3b.webp",
+    "thumb": "/assets/images/0a76105b6f3b-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 84786
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a254d3a566.jpg",
+    "path": "/assets/images/b165bdf57a2d.webp",
+    "thumb": "/assets/images/b165bdf57a2d-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 121118
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2561db42a.jpg",
+    "path": "/assets/images/b537f788e8ed.webp",
+    "thumb": "/assets/images/b537f788e8ed-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 133950
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a2577637b1.jpg",
+    "path": "/assets/images/1b31393dbc4d.webp",
+    "thumb": "/assets/images/1b31393dbc4d-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 84024
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a25966de11.jpg",
+    "path": "/assets/images/096bfdf3a82c.webp",
+    "thumb": "/assets/images/096bfdf3a82c-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 31542
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a25b157bb3.jpg",
+    "path": "/assets/images/405a3924e5eb.webp",
+    "thumb": "/assets/images/405a3924e5eb-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 150656
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a25c713017.jpg",
+    "path": "/assets/images/e084fb03d34c.webp",
+    "thumb": "/assets/images/e084fb03d34c-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 101524
+  },
+  {
+    "url": "https://www.mehlig-gmbh.de/pic/upload/1_pic613a26fd4a631.jpg",
+    "path": "/assets/images/6861e82c9276.webp",
+    "thumb": "/assets/images/6861e82c9276-thumb.webp",
+    "width": 1400,
+    "height": 933,
+    "bytes": 91814
+  }
+]
