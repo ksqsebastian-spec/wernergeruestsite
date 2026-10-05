@@ -42,3 +42,7 @@ Drei ImageGen-Konzeptansichten wurden vor der Umsetzung erzeugt und visuell gepr
 ## Offene Punkte für den Unternehmensstart
 
 Aktualität der Stellen und Teamdaten, projektspezifische Fotorechte/Credits sowie endgültige Hosting-/Datenschutzangaben und Löschfristen. Automatischer Formularversand bleibt ein gesonderter Integrationsschritt. Die Website kennzeichnet die technischen Kontaktwege transparent.
+
+## Größere Fotoansicht
+
+Die Galerie startet mit drei Spalten auf großen Displays, zwei auf Tablets und einer auf Smartphones. Die großen Originaldateien werden direkt geladen. Das Einstiegsfoto ist auf Desktop bis zu 760 px und auf Mobilgeräten 380–440 px hoch. Die Bildgröße bleibt über den vorhandenen Regler anpassbar.
