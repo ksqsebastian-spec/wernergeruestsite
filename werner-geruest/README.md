@@ -48,3 +48,7 @@ npx wrangler deploy
 ```
 
 Das untergeordnete Projekt verändert keine Mehlig-Routen und keinen Werner-Bau-Worker.
+
+## Galerie-Erweiterung · 6. Oktober 2026
+
+31 Originalaufnahmen in sechs benannten Projekten und neun Leistungs-/Teamsammlungen. Drei offizielle Logos beim jeweils zugehörigen Fachkundenachweis. Quellen und Einordnung: [research/FOTOS-UND-QUALIFIKATIONSLOGOS.md](research/FOTOS-UND-QUALIFIKATIONSLOGOS.md).

@@ -208,5 +208,352 @@
     "categories": [
       "industry"
     ]
+  },
+  {
+    "id": "fassadengerueste",
+    "title": "Fassaden- & Arbeitsgerüste",
+    "location": "",
+    "planning": "",
+    "category": "facades",
+    "categoryLabel": "Fassaden",
+    "task": "Arbeits- und Schutzgerüste für Neubau und Fassadenarbeiten.",
+    "kind": "insight",
+    "cover": {
+      "url": "https://onecdn.io/media/ad728348-ecfa-4061-9947-bc10dbdfa75e/full",
+      "path": "/assets/images/3ecbdaa9825d.webp",
+      "thumb": "/assets/images/3ecbdaa9825d-thumb.webp",
+      "width": 2000,
+      "height": 1500
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/ad728348-ecfa-4061-9947-bc10dbdfa75e/full",
+        "path": "/assets/images/3ecbdaa9825d.webp",
+        "thumb": "/assets/images/3ecbdaa9825d-thumb.webp",
+        "width": 2000,
+        "height": 1500
+      },
+      {
+        "url": "https://onecdn.io/media/42dcbc0f-2a31-4013-aa61-b538342d4681/full",
+        "path": "/assets/images/60c81931d575.webp",
+        "thumb": "/assets/images/60c81931d575-thumb.webp",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "url": "https://onecdn.io/media/96846bac-5a3b-4248-b2f1-ac446e6f8183/full",
+        "path": "/assets/images/5e443ce71681.webp",
+        "thumb": "/assets/images/5e443ce71681-thumb.webp",
+        "width": 960,
+        "height": 1700
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/",
+    "categories": [
+      "facades"
+    ]
+  },
+  {
+    "id": "wetterschutz",
+    "title": "Unter dem Wetterschutzdach",
+    "location": "",
+    "planning": "",
+    "category": "weather",
+    "categoryLabel": "Dach & Wetterschutz",
+    "task": "Überdachte Arbeitsbereiche für Arbeiten an Dach und Rohbau.",
+    "kind": "insight",
+    "cover": {
+      "url": "https://onecdn.io/media/b3a31629-978d-4c5f-86af-ab924bca15e4/full",
+      "path": "/assets/images/d80ef6606bae.webp",
+      "thumb": "/assets/images/d80ef6606bae-thumb.webp",
+      "width": 1200,
+      "height": 1600
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/b3a31629-978d-4c5f-86af-ab924bca15e4/full",
+        "path": "/assets/images/d80ef6606bae.webp",
+        "thumb": "/assets/images/d80ef6606bae-thumb.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "url": "https://onecdn.io/media/ee6a5611-ec62-48b5-8ec8-9657eafd30d5/full",
+        "path": "/assets/images/a3af8e157be3.webp",
+        "thumb": "/assets/images/a3af8e157be3-thumb.webp",
+        "width": 1200,
+        "height": 1600
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "id": "sonderkonstruktionen",
+    "title": "Gerüste mit neuen Perspektiven",
+    "location": "",
+    "planning": "",
+    "category": "industry",
+    "categoryLabel": "Industrie & Sonderbau",
+    "task": "Hängegerüste und freitragende Konstruktionen aus unserem Leistungsbestand.",
+    "kind": "insight",
+    "cover": {
+      "url": "https://onecdn.io/media/622679ab-670e-413a-9871-2aeb93ac364e/full",
+      "path": "/assets/images/51fa2405b1d2.webp",
+      "thumb": "/assets/images/51fa2405b1d2-thumb.webp",
+      "width": 2528,
+      "height": 1696
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/622679ab-670e-413a-9871-2aeb93ac364e/full",
+        "path": "/assets/images/51fa2405b1d2.webp",
+        "thumb": "/assets/images/51fa2405b1d2-thumb.webp",
+        "width": 2528,
+        "height": 1696
+      },
+      {
+        "url": "https://onecdn.io/media/bbcead2c-29e7-46c5-a9ef-d0ce18d1588c/full",
+        "path": "/assets/images/40fa0b975944.webp",
+        "thumb": "/assets/images/40fa0b975944-thumb.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/",
+    "categories": [
+      "industry"
+    ]
+  },
+  {
+    "id": "innengerueste",
+    "title": "Gerüste im Innenraum",
+    "location": "",
+    "planning": "",
+    "category": "industry",
+    "categoryLabel": "Innenräume",
+    "task": "Raum- und Innengerüste für Arbeiten im Gebäude.",
+    "kind": "insight",
+    "cover": {
+      "url": "https://onecdn.io/media/1c9f890e-54f8-4544-932a-9f3c9aa0aa56/full",
+      "path": "/assets/images/300ddbc9ae83.webp",
+      "thumb": "/assets/images/300ddbc9ae83-thumb.webp",
+      "width": 1000,
+      "height": 667
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/1c9f890e-54f8-4544-932a-9f3c9aa0aa56/full",
+        "path": "/assets/images/300ddbc9ae83.webp",
+        "thumb": "/assets/images/300ddbc9ae83-thumb.webp",
+        "width": 1000,
+        "height": 667
+      },
+      {
+        "url": "https://onecdn.io/media/0321d1d0-1b8b-4929-a52c-a541ebbd1350/full",
+        "path": "/assets/images/9597b7b66792.webp",
+        "thumb": "/assets/images/9597b7b66792-thumb.webp",
+        "width": 2752,
+        "height": 1536
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/",
+    "categories": [
+      "industry"
+    ]
+  },
+  {
+    "id": "bauaufzuege",
+    "title": "Der Weg nach oben",
+    "location": "",
+    "planning": "",
+    "category": "facades",
+    "categoryLabel": "Bauaufzüge",
+    "task": "Bauaufzüge für Personen und Material auf der Baustelle.",
+    "kind": "insight",
+    "cover": {
+      "url": "https://onecdn.io/media/05ecacf1-7ec6-4af5-a283-0b73b83f17ae/full",
+      "path": "/assets/images/e92c76652bbf.webp",
+      "thumb": "/assets/images/e92c76652bbf-thumb.webp",
+      "width": 2528,
+      "height": 1696
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/05ecacf1-7ec6-4af5-a283-0b73b83f17ae/full",
+        "path": "/assets/images/e92c76652bbf.webp",
+        "thumb": "/assets/images/e92c76652bbf-thumb.webp",
+        "width": 2528,
+        "height": 1696
+      },
+      {
+        "url": "https://onecdn.io/media/d8288686-b394-4fc3-a758-5daf4233b705/full",
+        "path": "/assets/images/57006be6a06b.webp",
+        "thumb": "/assets/images/57006be6a06b-thumb.webp",
+        "width": 2528,
+        "height": 1696
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/",
+    "categories": [
+      "facades"
+    ]
+  },
+  {
+    "id": "treppentuerme",
+    "title": "Sichere Zugänge",
+    "location": "",
+    "planning": "",
+    "category": "facades",
+    "categoryLabel": "Treppentürme",
+    "task": "Treppentürme als Zugang zu den Arbeitsebenen.",
+    "kind": "insight",
+    "cover": {
+      "url": "https://onecdn.io/media/247ab18f-5b7b-4835-b7fc-940945cc5ce4/full",
+      "path": "/assets/images/4271ab6409ac.webp",
+      "thumb": "/assets/images/4271ab6409ac-thumb.webp",
+      "width": 1792,
+      "height": 2400
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/247ab18f-5b7b-4835-b7fc-940945cc5ce4/full",
+        "path": "/assets/images/4271ab6409ac.webp",
+        "thumb": "/assets/images/4271ab6409ac-thumb.webp",
+        "width": 1792,
+        "height": 2400
+      },
+      {
+        "url": "https://onecdn.io/media/574d7fb5-4a33-4069-90ad-fac1437d9bbf/full",
+        "path": "/assets/images/6ded38a7cfe3.webp",
+        "thumb": "/assets/images/6ded38a7cfe3-thumb.webp",
+        "width": 1200,
+        "height": 1600
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/",
+    "categories": [
+      "facades"
+    ]
+  },
+  {
+    "id": "baustellensicherung",
+    "title": "Schutz rund um die Baustelle",
+    "location": "",
+    "planning": "",
+    "category": "facades",
+    "categoryLabel": "Baustellenservice",
+    "task": "Fußgängerdurchgänge, Bauzäune und Schutznetze aus unserem Baustellenservice.",
+    "kind": "insight",
+    "cover": {
+      "url": "https://onecdn.io/media/2b21794b-b62d-491c-806d-0509541a89e1/full",
+      "path": "/assets/images/62d601d54d5c.webp",
+      "thumb": "/assets/images/62d601d54d5c-thumb.webp",
+      "width": 2528,
+      "height": 1696
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/2b21794b-b62d-491c-806d-0509541a89e1/full",
+        "path": "/assets/images/62d601d54d5c.webp",
+        "thumb": "/assets/images/62d601d54d5c-thumb.webp",
+        "width": 2528,
+        "height": 1696
+      },
+      {
+        "url": "https://onecdn.io/media/759df361-5acc-468b-a397-260b16910b4d/full",
+        "path": "/assets/images/4069fa477cc0.webp",
+        "thumb": "/assets/images/4069fa477cc0-thumb.webp",
+        "width": 2528,
+        "height": 1696
+      },
+      {
+        "url": "https://onecdn.io/media/216bed0f-29fa-45fe-8be2-e746d53f82ae/full",
+        "path": "/assets/images/33f593b22200.webp",
+        "thumb": "/assets/images/33f593b22200-thumb.webp",
+        "width": 1200,
+        "height": 1600
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/",
+    "categories": [
+      "facades"
+    ]
+  },
+  {
+    "id": "geruestwerbung",
+    "title": "Raum für Sichtbarkeit",
+    "location": "",
+    "planning": "",
+    "category": "facades",
+    "categoryLabel": "Gerüstwerbung",
+    "task": "Großformatige Werbeplanen am Gerüst.",
+    "kind": "insight",
+    "cover": {
+      "url": "https://onecdn.io/media/0c313fc7-2a2b-4bb0-a7c5-79f356da75be/full",
+      "path": "/assets/images/122be6b7de24.webp",
+      "thumb": "/assets/images/122be6b7de24-thumb.webp",
+      "width": 2400,
+      "height": 1792
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/0c313fc7-2a2b-4bb0-a7c5-79f356da75be/full",
+        "path": "/assets/images/122be6b7de24.webp",
+        "thumb": "/assets/images/122be6b7de24-thumb.webp",
+        "width": 2400,
+        "height": 1792
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/",
+    "categories": [
+      "facades"
+    ]
+  },
+  {
+    "id": "team-im-einsatz",
+    "title": "Menschen hinter dem Gerüst",
+    "location": "",
+    "planning": "",
+    "category": "all",
+    "categoryLabel": "Team im Einsatz",
+    "task": "Einblicke in die Arbeit unseres Teams.",
+    "kind": "insight",
+    "cover": {
+      "url": "https://onecdn.io/media/a84c7605-887c-4aaa-b32a-8c2d9837f17d/full",
+      "path": "/assets/images/a92f45f016de.webp",
+      "thumb": "/assets/images/a92f45f016de-thumb.webp",
+      "width": 2528,
+      "height": 1696
+    },
+    "images": [
+      {
+        "url": "https://onecdn.io/media/a84c7605-887c-4aaa-b32a-8c2d9837f17d/full",
+        "path": "/assets/images/a92f45f016de.webp",
+        "thumb": "/assets/images/a92f45f016de-thumb.webp",
+        "width": 2528,
+        "height": 1696
+      },
+      {
+        "url": "https://onecdn.io/media/13a30d64-17a2-4d09-b6eb-6ead71aaaec9/full",
+        "path": "/assets/images/dd611d0bd6bc.webp",
+        "thumb": "/assets/images/dd611d0bd6bc-thumb.webp",
+        "width": 2528,
+        "height": 1696
+      },
+      {
+        "url": "https://onecdn.io/media/0ecb1aa8-943a-461d-83bb-530a0c707536/full",
+        "path": "/assets/images/48458e0dfb1c.webp",
+        "thumb": "/assets/images/48458e0dfb1c-thumb.webp",
+        "width": 1792,
+        "height": 2400
+      }
+    ],
+    "source": "https://www.j-werner-geruestbau.de/",
+    "categories": [
+      "all"
+    ]
   }
 ]
