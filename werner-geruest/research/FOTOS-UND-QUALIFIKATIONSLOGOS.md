@@ -14,3 +14,11 @@ Die auf der Unternehmenswebsite angegebenen Nachweise werden mit folgenden Origi
 - DIN 18451 bleibt eine ausgeschriebene Norm. Kein erfundenes DIN-Zertifikat oder Zertifizierungssiegel.
 
 Die Logos sind keine neue Prüfung des aktuellen Qualifikationsstatus; aktuelle Nachweise werden weiterhin auf Anfrage angeboten. Bau und Mehlig wurden nicht bearbeitet. Der vollflächige Gerüstbau-Film bleibt unverändert.
+
+## Prüfung und Veröffentlichung
+
+- `npm run build` und `npm run check` erfolgreich: lokale Verweise, Skriptsyntax, Routen, CSP und MP4-Range-Verhalten.
+- Desktop sowie 390 und 320 Pixel breite Ansicht: kein horizontaler Überlauf. Mobiler Wetterschutzfilter zeigt sieben passende Aufnahmen.
+- Live: alle 31 Galerieaufnahmen und alle drei Logos HTTP 200; neue Detailansicht mit Bildwechsel geprüft, keine Browserfehler.
+- Beide Filmdateien liefern weiterhin korrekte 206-Antworten für Byte-Ranges.
+- Eigener Worker: `wernergeruesttest`; Deployment `29971e8406ea4cbc8216c2c0c2dabdf8`.
